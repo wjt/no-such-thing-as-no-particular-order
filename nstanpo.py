@@ -1,5 +1,51 @@
 #!/usr/bin/env python
 # vim: set fileencoding=utf-8
+import mwparserfromhell
+import re
+import inflect
+import pandas as pd
+import seaborn as sns
+import operator
+
+def main():
+    parsed = mwparserfromhell.parse(blob)
+    ts = [ t for t in parsed.filter_templates() if 'pisode list' in t.name ]
+    summaries = [ t.get('ShortSummary') for t in ts ]
+    episode_speakers = [ re.findall(r'\(([^()]+)\)$', unicode(s.value), re.MULTILINE) for s in summaries ]
+    p = inflect.engine()
+    speaker_positions = []
+    for speakers in episode_speakers:
+        for i, speaker in enumerate(speakers):
+            i_plus_oneth = p.ordinal(i+1) + ' fact'
+            speaker_positions.append((speaker, i_plus_oneth))
+
+    df = pd.DataFrame(speaker_positions, columns=('Elf', 'Position'))
+    is_regular = reduce(operator.or_,
+                        (df.Elf == x for x in 'Schreiber Harkin Ptaszynski Murray'.split()))
+    regulars = df[is_regular]
+
+    sns.mpl.rc("figure", figsize=(10, 6))
+    sns.set_style('white')
+    pal = sns.color_palette('colorblind')
+
+    a = sns.factorplot("Elf", data=regulars, hue="Position", palette=pal)
+    sns.despine()
+    a.savefig('by-elf-then-position.png')
+
+    b = sns.factorplot("Position", data=regulars, hue="Elf", palette=pal)
+    sns.despine()
+    b.savefig('by-position-then-elf.png')
+
+    irregulars = df[~is_regular]
+
+    d = sns.factorplot("Elf", data=irregulars, hue="Position", palette=pal)
+    sns.despine()
+    d.savefig('by-elf-then-position-irregulars.png')
+
+    c = sns.factorplot("Position", data=irregulars, hue="Elf", palette=pal)
+    sns.despine()
+    c.savefig('by-position-then-elf-irregulars.png')
+
 blob = """
 ==List of episodes==
 {| class="wikitable" style="width:98%;"
@@ -669,34 +715,5 @@ During the [[2014 FIFA World Cup]], the podcast did a spin-off series sponsored 
 |}
 """
 
-import mwparserfromhell
-import re
-import collections
-import inflect
-import pandas as pd
-import matplotlib.pylab as plt
-
-
-parsed = mwparserfromhell.parse(blob)
-ts = [ t for t in parsed.filter_templates() if 'pisode list' in t.name ]
-summaries = [ t.get('ShortSummary') for t in ts ]
-episode_speakers = [ re.findall(r'\(([^()]+)\)$', unicode(s.value), re.MULTILINE) for s in summaries ]
-speaker_positions = {}
-p = inflect.engine()
-for speakers in episode_speakers:
-    for i, speaker in enumerate(speakers):
-        i_plus_oneth = p.ordinal(i+1) + ' fact'
-        counts = speaker_positions.setdefault(speaker, collections.Counter())
-        counts[i_plus_oneth] += 1
-
-df = pd.DataFrame(speaker_positions)
-appearances = df.sum()
-appearances.sort(ascending=False)
-unadjusted = df.ix[:,appearances.index].T
-unadjusted.plot(kind='barh', stacked=True, title='Unadjusted for number of appearances')
-plt.tight_layout()
-
-regulars = unadjusted.ix['Schreiber Harkin Ptaszynski Murray'.split(),:]
-adjusted = 100. * (regulars.T / regulars.sum(axis=1)).T
-adjusted.plot(kind='barh', stacked=True, title='Regulars only, as % of number of appearances')
-plt.tight_layout()
+if __name__ == '__main__':
+    main()
