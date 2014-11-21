@@ -11,7 +11,7 @@ def main():
     parsed = mwparserfromhell.parse(blob)
     ts = [ t for t in parsed.filter_templates() if 'pisode list' in t.name ]
     summaries = [ t.get('ShortSummary') for t in ts ]
-    episode_speakers = [ re.findall(r'\(([^()]+)\)$', unicode(s.value), re.MULTILINE) for s in summaries ]
+    episode_speakers = [ re.findall(r'\(([^()]+)\)\.?$', unicode(s.value), re.MULTILINE) for s in summaries ]
     p = inflect.engine()
     speaker_positions = []
     for speakers in episode_speakers:
