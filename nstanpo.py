@@ -8,6 +8,7 @@ import operator
 import pandas as pd
 import re
 import requests
+import subprocess
 
 import seaborn as sns
 sns.set_palette('colorblind', n_colors=4)
@@ -17,10 +18,18 @@ from scipy.stats import chisquare
 
 
 URL = 'https://en.wikipedia.org/w/index.php?title=No_Such_Thing_as_a_Fish&action=raw'
+CACHE = 'No_Such_Thing_as_a_Fish.mediawiki.txt'
+
 
 def fetch():
-    response = requests.get(URL)
-    return response.content
+    try:
+        with open(CACHE, 'r') as f:
+            return f.read()
+    except IOError:
+        response = requests.get(URL)
+        with open(CACHE, 'w') as f:
+            f.write(response.content)
+        return response.content
 
 
 def is_episode_list(t):
@@ -86,24 +95,33 @@ def is_nth(df):
     }).transpose(2, 1, 0)
 
 
-def cumulative_prob(df, axes=None):
+def cumulative_prob(df, axes=None, title=None):
     c = (df.cumsum().T / range(1, len(df) + 1)).T
-    return c.plot(kind='area')
+    return c.plot(kind='area', title=title)
 
 
 def main():
     df = get()
+    print('{} episodes with regular elves'.format(len(df)))
 
     s = summarize(df)
     print(s)
 
+    chi_squareds = pd.DataFrame([chisquare(s[c]) for c in s.columns], index=s.columns)
+    print(chi_squareds)
+
     p = is_nth(df)
     for i, position in enumerate(p.items, 1):
-        print(position)
-        print(chisquare(s[position]))
+        fn = lambda ext: '{}-{}.{}'.format(i, position, ext)
+        svg = fn('svg')
+        png = fn('png')
 
-        axes = cumulative_prob(p[position])
-        axes.figure.savefig('{} {}.svg'.format(i, position))
+        axes = cumulative_prob(p[position],
+                               title='Proportion of Facts in {} Position'.format(position))
+        axes.figure.savefig(svg)
+        subprocess.check_call((
+            'inkscape', '--export-dpi=180', '--export-png={}'.format(png), svg,
+        ))
 
 
 if __name__ == '__main__':
