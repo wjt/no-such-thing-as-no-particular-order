@@ -1,0 +1,1792 @@
+{{Use dmy dates|date=November 2014}}
+{{Infobox Podcast
+| title = No Such Thing As A Fish
+| image = [[File:No_Such_Thing_As_A_Fish_logo.jpg|250px]]
+| creator = The ''[[QI]]'' Elves
+| caption = 
+| host = James Harkin<br>Andrew Hunter Murray<br>Anna Ptaszynski<br>[[Dan Schreiber (producer)|Dan Schreiber]]
+| url = [http://qi.com/podcast/ QI website]
+| rss = 
+| atom =
+| status = Weekly, every Friday
+| began = 8 March 2014
+| ended =
+| genre = Comedy
+| ratings =
+}}
+
+'''''No Such Thing as a Fish''''' is a weekly British [[podcast]] series produced and presented by the researchers behind the [[BBC Two]] [[panel game]] ''[[QI]]''. In it each of the researchers, collectively known as "The ''QI'' Elves", present their favourite fact that they have come across that week. The most regular presenters of the podcast are James Harkin, Andrew Hunter Murray, Anna Ptaszynski and [[Dan Schreiber (producer)|Dan Schreiber]], although other ''QI'' researchers also make appearances, and there are guest presenters in some episodes.
+
+Since the launch of the podcast it has attracted 700,000 subscribers.<ref>{{cite web|title=QI main page|publisher=[[QI]]|url=http://qi.com/home/|accessdate=5 November 2014}}</ref> In 2014 ''No Such Thing as a Fish'' was named by Apple as the "Best New Podcast" that year.<ref name="Best New Podcast">{{cite news|url=http://www.inewsandtech.com/apple-shows-the-best-itunes-has-to-offer-in-2014/|title=Apple shows the best iTunes has to offer in 2014|publisher=iNews and Tech|date=8 December 2014|accessdate=9 December 2014}}</ref> In 2015 it won the "Internet Award" in the Chortle Awards.<ref name ="Chortle">{{cite web|url=http://www.chortle.co.uk/news/2015/03/16/22040/acaster_and_christie_do_the_double|title=Acaster and Christie do the double|publisher=Chortle|date=16 March 2015|accessdate=17 March 2015}}</ref>
+
+==Title==
+The title for ''No Such Thing as a Fish'' comes from a fact in the ''QI'' TV series. In the third episode of eighth series, also known as "Series H", an episode on the theme of "Hoaxes" reported that after a lifetime studying fish the biologist [[Stephen Jay Gould]] concluded that there was no such thing as a [[fish]]. He reasoned that while there are many sea creatures, most of them are not closely related to each other. For example, a [[salmon]] is more closely related to a [[camel]] than it is to a [[hagfish]].<ref>{{cite episode|title=Hoaxes|url=http://www.comedy.co.uk/guide/tv/qi/episodes/8/3/|series=QI|serieslink=QI|network=BBC|station=BBC One|city=London|airdate=1 October 2010|seriesno=H|number=3|transcript=QI Transcripts|transcripturl=https://sites.google.com/site/qitranscripts/transcripts/8x03}}</ref> The opening of early episodes of the podcast used to feature a recording of the elves mentioning this fact, which appears in the first paragraph of the ''Oxford Dictionary of Underwater Life''.<ref name=oxford2005>{{cite book|editor1-last=Campbell|editor1-first=Andrew|editor2-last=Dawes|editor2-first=John|title=Encyclopedia of Underwater Life: Aquatic Invertebrates and Fishes|date=2005|publisher=Oxford University Press|isbn=9780192806741|url=http://www.oxfordreference.com/view/10.1093/acref/9780192806741.001.0001/acref-9780192806741-e-52|chapter=Fish, What is a?|doi=10.1093/acref/9780192806741.001.0001}}</ref><ref name="Dessau">{{cite web|last=Dessau|first=Bruce|authorlink=Bruce Dessau|title=Podcast Review: No Such Thing as a Fish|publisher=Beyond the Joke|url=http://www.beyondthejoke.co.uk/content/784/podcast-review-no-such-thing-fish|date=29 April 2014|accessdate=23 May 2014}}</ref>
+
+==Format==
+[[File:QI elves.jpg|thumb|right|300px|The regular ''QI'' elves who present ''No Such Thing as a Fish'' (left-to-right); Andrew Hunter Murray, Dan Schreiber, Anna Ptaszynski and James Harkin.]]
+In each episode each presenter takes it in turn to present their favourite fact that they have come across that week.<ref>{{cite web|url=http://qi.com/podcast/podcast-about|title=About the Podcast|publisher=''QI''|accessdate=3 November 2014}}</ref> They discuss the information surrounding that fact, and the other presenters add in extra facts and information connecting to it.
+
+==Production==
+In an interview with ''[[ThreeWeeks]]'', Schreiber said the podcast, "came about because too many facts in the ''QI'' office kept going to waste. Like the time Chief Elf James Harkin looked up from his computer and said: 'You know there are currently over 600 guys in the world with two dicks'. We decided to gather round a microphone once a week and share our favourite facts we'd found that week."<ref>{{cite web|last=Cooke|first=Chris|url=http://www.threeweeks.co.uk/article/dan-schreiber-the-idiot-elf-arrives-at-the-fringe/|title=Dan Schreiber: The idiot elf arrives at the Fringe|publisher=[[ThreeWeeks]]|date=23 July 2014|accessdate=23 July 2014}}</ref> Murray told ''[[The Independent]]'': "We almost released it by mistake. We uploaded it and only mentioned it on our own personal social media accounts. We thought it was good, but the reaction has been lovely. It seems like there's a real appetite for more podcasts like this. There is a feeling of resurgence of the whole medium."<ref>{{cite news|last=Usborne|first=Simon|url=http://www.independent.co.uk/arts-entertainment/music/features/serial-mania-has-propelled-podcasts-into-the-cultural-mainstream-9934634.html|title=Serial podcast finale: Mania has propelled podcasts into the cultural mainstream|publisher=''[[The Independent]]''|date=18 December 2014|accessdate=19 December 2014}}</ref>
+
+Episodes are normally recorded at the ''QI'' offices in [[Covent Garden]], although there have been live recordings in other locations. The theme tune used is the song "Wasps" by [[Emperor Yes]], whose lead singer Ash Gardner has also appeared as a guest on the podcast.<ref name="Episode 32">{{cite web|url=http://qi.com/podcast-episode-032/|title=No Such Thing As A Good Gift For Gordon Brown|publisher=[[QI]]|date=24 October 2014|accessdate=25 October 2014}}</ref>
+
+==List of episodes==
+{| class="wikitable" style="width:98%;"
+|-
+! style="background-color: #DEDDE2;"| # 
+!! style="background-color: #DEDDE2;"| Title 
+!! style="background-color: #DEDDE2;"|Presenters
+!! style="background-color: #DEDDE2;"|Original airdate 
+{{ Episode list
+ |EpisodeNumber=1
+ |Title=No Such Thing as a Pilot Fish
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast/podcast-episode-001/|title=Episode 1|publisher=[[QI]]|date=8 March 2014|accessdate=24 May 2014}}</ref>
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber
+ |OriginalAirDate=8 March 2014
+ |ShortSummary=The [[Large Hadron Collider]] was turned off for a short period of time because a piece of [[baguette]] was found in the machinery. (Harkin)
+
+For the last month of his life, [[James A. Garfield]] ate everything through his [[anus]]. (Ptaszynski)
+
+In 2013, six people in the United States named their child "[[Mushroom]]". (Harkin)
+
+The person who found [[Richard III of England]]'s bones, [[Philippa Langley]], was not an [[archeologist]], but a screenwriter. (Schreiber)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=2
+ |Title=No Such Thing As Death By Acne
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast/podcast-episode-002/|title=No Such Thing As Death By Acne|publisher=[[QI]]|date=14 March 2014|accessdate=24 May 2014}}</ref>
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber
+ |OriginalAirDate=14 March 2014
+ |ShortSummary=The first ever [[sandwich]] that we know about contained wine. (Ptaszynski)
+
+In 2003, three people in [[Mexico]] were officially listed as having died of [[acne]]. (Harkin)
+
+Amongst the other scientists called [[Albert Einstein|Einstein]] there is M.E. Einstein who came up with a formula for predicting the composition of a pork carcass, and Rosemary Einstein who co-investigated the use of cannabis, alcohol and tobacco on 300 young persons at her university. (Schreiber)
+
+The first [[contact lens]]es cost as much as a car. (Murray)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=3
+ |Title=No Such Thing As The Middle Ages
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast/podcast-episode-003/|title=No Such Thing As The Middle Ages|publisher=[[QI]]|date=21 March 2014|accessdate=24 May 2014}}</ref>
+ |Aux1=Harkin, Ptaszynski, Schreiber, Alex Edelman and Greg Jenner
+ |OriginalAirDate=21 March 2014
+ |ShortSummary=The earliest known [[dentistry]] is 9,000 years old. (Jenner)
+
+According to the [[phantom time hypothesis]], the [[Middle Ages]] never happened. (Schreiber)
+
+The most indispensable sea creature in the United States is the [[horseshoe crab]], due to its blood being used for medical purposes. (Edelman)
+
+28 women were known to have slept in the same bedroom as [[Elizabeth I of England]]. (Harkin)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=4
+ |Title=No Such Thing As The Mountains of Kong
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast/podcast-episode-004/|title=No Such Thing As The Mountains of Kong|publisher=[[QI]]|date=28 March 2014|accessdate=24 May 2014}}</ref>
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber
+ |OriginalAirDate=28 March 2014
+ |ShortSummary=30 million Chinese people live in caves. (Schreiber)
+
+There is a banker in [[Latvia]] who will lend you money using your immortal [[soul]] as [[Security (finance)|security]]. (Harkin)
+
+For 100 years, almost all maps of Africa contained a mountain range that did not exist, called the [[Mountains of Kong]]. (Ptaszynski)
+
+Male [[Agelenopsis pennsylvanica|Pennsylvania grass spider]]s are more likely to approach a female for sex if she has recently killed and eaten another male. (Murray)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=5
+ |Title=No Such Thing As A Kiss
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-005/|title=No Such Thing As A Kiss|publisher=[[QI]]|date=4 April 2014|accessdate=24 May 2014}}</ref>
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber
+ |OriginalAirDate=4 April 2014
+ |ShortSummary=[[Rat]]s, namely ''[[Josephoartigasia monesi]]'', were once the size of [[Hippopotamus|hippos]]. (Ptaszynski)
+
+During his 27-year reign, [[Pope John Paul II]] took over 100 [[skiing]] vacations. (Schreiber)
+
+100 years ago a quarter of the residents of New York City would move house on every single 1 May, at exactly 9 am. (Harkin)
+
+Nobody knows why we [[kiss]]. (Murray)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=6
+ |Title=No Such Thing As One Direction in North Korea
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast/podcast-episode-006/|title=No Such Thing As One Direction in North Korea|publisher=[[QI]]|date=11 April 2014|accessdate=24 May 2014}}</ref>
+ |Aux1=Harkin, Murray, Molly Oldfield and [[Marc Abrahams]]
+ |OriginalAirDate=11 April 2014
+ |ShortSummary=Some [[plastic surgery|plastic surgeons]] operated on a Belgian man to make him look more like [[Michael Jackson]]. (Abrahams)
+
+The largest [[Viking ship]] ever discovered was found when renovating the Roskilde [[Viking Ship Museum (Roskilde)|Viking Ship Museum]] (Oldfield)
+
+The [[tobacco hornworm]] uses extremely bad [[halitosis]] to protect itself. (Murray)
+
+During this podcast you could have fallen [[microsleep|asleep]] up to five times and not have known about it. (Harkin)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=7
+ |Title=No Such Thing As The Loch Ness Monster
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast/podcast-episode-007/|title=No Such Thing As The Loch Ness Monster|publisher=[[QI]]|date=18 April 2014|accessdate=24 May 2014}}</ref>
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber
+ |OriginalAirDate=18 April 2014
+ |ShortSummary=A computer game has been invented that takes more than a lifetime to complete. (Harkin)
+
+2013 was the first year since 1933 where there has been no sighting of the [[Loch Ness Monster]]. (Schreiber)
+
+The French government forced [[Madame Tussaud]] to make models of her friends' decapitated heads. (Ptaszynski)
+
+During the [[Normandy landings]] the [[Allies of World War II|Allied Forces]] dropped dogs by [[parachute]] onto the battlefield. (Murray)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=8
+ |Title=No Such Thing As A Swear Word on the Moon
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast/podcast-episode-008/|title=No Such Thing As A Swear Word on the Moon|publisher=[[QI]]|date=25 April 2014|accessdate=24 May 2014}}</ref>
+ |Aux1=Harkin, Ptaszynski, Schreiber and Alex Bell
+ |OriginalAirDate=25 April 2014
+ |ShortSummary=One of the last things that [[NASA]] had to do before launching [[space shuttle]]s was to detach their inflatable [[owl]]s that were used to scare [[woodpecker]]s. (Bell)
+
+The music used on the [[You Wouldn't Steal a Car]] anti-piracy advert was stolen by the people who made the advert. (Schreiber)
+
+According to the government website of the [[Czech Republic]] there are three symbols of Easter in the country: [[Easter egg]]s, the Easter lamb and [[Flagellation|whipping]]. (Harkin)
+
+At [[Earl's Court tube station]], in 1911, a one-legged man named "Bumper Harris" was hired to ride the [[escalator]]. (Ptaszynski)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=9
+ |Title=No Such Thing As A Word For 'Silent Fart'
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast/podcast-episode-009/|title=No Such Thing As A Word For "Silent Fart"|publisher=[[QI]]|date=2 May 2014|accessdate=24 May 2014}}</ref>
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber
+ |OriginalAirDate=2 May 2014
+ |ShortSummary=It was fashionable in New York City at the end of 19th century for women to wear live [[lizard]]s as [[brooch]]es. (Harkin)
+
+Codebreaker [[Alan Turing]] lost his [[buried treasure]] when he could not crack his own code. (Schreiber)
+
+In 2011, the largest [[sperm bank]] in the world stopped accepting sperm from [[red hair|redheads]]. (Ptaszynski)
+
+The English language has more words borrowed from the [[Hawaiian language]] than it does from the [[Welsh language]]. (Murray)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=10
+ |Title=No Such Thing As A Soggy Monk
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast/podcast-episode-010/|title=No Such Thing As A Soggy Monk|publisher=[[QI]]|date=9 May 2014|accessdate=24 May 2014}}</ref>
+ |Aux1=Harkin, Murray, Schreiber, Anne Miller and Eric Lampaert
+ |OriginalAirDate=9 May 2014
+ |ShortSummary=In 1923, jockey [[Frank Hayes (jockey)|Frank Hayes]] won a race, despite dying of a heart attack while riding his horse. (Lampaert)
+
+Some [[Kaihōgyō|Buddhist monk]]s run [[marathon]]s to achieve [[Enlightenment in Buddhism|enlightenment]]. (Schreiber)
+
+The [[Slovakia]]n and [[Slovenia]]n embassies in Washington D.C. meet once a month to exchange wrongly addressed mail. (Harkin)
+
+In the 18th century there were medicines called "Alan's Nipple Liniment", "Grimstone's Eye Snuff", "Miller's Worm Plums" and "Italian Bosom Friend". (Murray)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=11
+ |Title=No Such Thing As A Doorknob in Vancouver
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast/podcast-episode-011/|title=No Such Thing As A Doorknob in Vancouver|publisher=[[QI]]|date=16 May 2014|accessdate=24 May 2014}}</ref>
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber
+ |OriginalAirDate=16 May 2014
+ |ShortSummary=The words "[[Tory]]" and "Prime Minister" both started out as insults. (Murray)
+
+In a 2005 [[questionnaire]] about substance abuse, almost one in five people taking part admitted to taking a drug that did not exist called [[derbisol]]. (Ptaszynski)
+
+[[Sea otter]]s have a secret pocket in their armpit where they like to keep their favourite stones. (Schreiber)
+
+In [[Vancouver]] it is illegal to put a [[doorknob]] on the front door of a house as it is harder for people to open if they suffer from [[arthritis]]. (Harkin)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=12
+ |Title=No Such Thing As A 164 Foot Tall Gorilla-Whale
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast/podcast-episode-012/|title=No Such Thing As A Doorknob in Vancouver|publisher=[[QI]]|date=23 May 2014|accessdate=24 May 2014}}</ref>
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber
+ |OriginalAirDate=23 May 2014
+ |ShortSummary=If the 2014 version of [[Godzilla (2014 film)|Godzilla]] really existed, it would produce 12.9 million gallons of [[urine]] a day. (Harkin)
+
+The real [[Long John Silver]] – [[William Ernest Henley]], was the father of the real [[Wendy Darling]] – [[Margaret Henley]]. (Ptaszynski)
+
+The [[tin foil hat]] worn by [[conspiracy theory|conspiracy theorists]] to stop the government sending messages into their brains actually has the opposite effect. It amplifies the signal. (Schreiber)
+
+[[Goose|Geese]] sometimes fly upside-down to lose height quickly when they come into land. (Murray)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=13
+ |Title=No Such Thing As A Funny Nazi
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast/podcast-episode-013/|title=No Such Thing As A Funny Nazi|publisher=[[QI]]|date=30 May 2014|accessdate=30 May 2014}}</ref>
+ |Aux1=Harkin, Murray, Ptaszynski, Schreiber and [[Lieven Scheire]]
+ |OriginalAirDate=30 May 2014
+ |ShortSummary=During [[World War II]], the [[Nazi Party]] employed two official Nazi comedians called [[Tran and Helle]]. (Scheire)
+
+The [[Philippine Basketball Association]], the second oldest such association in the world, has ten teams in total, including the [[Rain or Shine Elasto Painters]], the [[San Miguel Beermen]], and the [[Talk 'N Text Tropang Texters]]. (Schreiber)
+
+If you get a [[zebrafish]] drunk, and put that zebrafish in a tank full of sober zebrafish, the sober ones will follow the drunk one around. (Ptaszynski)
+
+The youngest woolly [[mammoth]]s are younger than the oldest [[Ancient Egyptian|Egyptian]] [[pharaoh]]s. (Murray)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=14
+ |Title=No Such Thing As A Dirty Pair of Jeans
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-014/|title=No Such Thing As A Dirty Pair of Jeans|publisher=[[QI]]|date=7 June 2014|accessdate=7 June 2014}}</ref>
+ |Aux1=Harkin, Murray, Ptaszynski, Schreiber and Freddy Soames
+ |OriginalAirDate=7 June 2014
+ |ShortSummary=The CEO of [[Levi Strauss & Co.|Levi's]], Chip Bergh, hasn't washed his [[jeans]] in more than a year. (Harkin)
+
+During the first successful [[Transatlantic flight of Alcock and Brown|transatlantic flight, by Alcock and Brown]], the pilots got lost in midair, entered some cloud and fog, and when they got out of the cloud and fog, they found they were just 60 feet above the water, and flying at a 90° angle. (Schreiber)
+
+In 2007, a woman called Evan Lattimer inherited [[Napoleon Bonaparte]]'s [[penis]] from her father. (Ptaszynski)
+
+To say "I don't care about something", a German has the option of saying: "das ist mir Wurst". This translates into English as: "It's sausage to me". (Murray)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=15
+ |Title=No Such Thing As A Bulge in Ken's Groin
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-015/|title=No Such Thing As A Bulge in Ken's Groin|publisher=[[QI]]|date=28 June 2014|accessdate=28 June 2014}}</ref>
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber
+ |OriginalAirDate=28 June 2014
+ |ShortSummary=The [[Aztec Empire|Aztecs]] wore necklaces made out of [[popcorn]]. (Harkin)
+
+In 2011, China tried to pass off a scene from the film ''[[Top Gun]]'' as footage from its own [[People's Liberation Army Air Force|air force]]. (Ptaszynski)
+
+In 2003, somebody misplaced the [[masterkey]]s to the [[Lawrence Livermore National Laboratory]], thus meaning they had to replace the locks, at a cost of $1,000,700. (Schreiber)
+
+The children's toy doll [[Ken (doll)|Ken]] is officially an [[Fashion accessory|accessory]] to [[Barbie]]. (Murray)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=16
+ |Title=No Such Thing As A Ghost in Poland
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-016/|title=No Such Thing As A Ghost in Poland|publisher=[[QI]]|date=5 July 2014|accessdate=5 July 2014}}</ref>
+ |Aux1=Alex Bell, Harkin, Anne Miller, Ptaszynski, Schreiber
+ |OriginalAirDate=5 July 2014
+ |ShortSummary=The World Record for the most kicks to one's own head is 127 in a minute. (Harkin)
+
+There is a bear in the [[Pyrenees]] which is facing [[castration]] because he has fathered nearly all the other bears in the area. (Miller)
+
+[[Poland]]'s only official ghost hunter thinks that ghosts have given up on haunting humans. (Schreiber)
+
+[[Nuclear fallout]] from the [[Cold War]] is being used to solve murders. (Ptaszynski)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=17
+ |Title=No Such Thing As A Bassoon in a Football Stadium{{#tag:ref|This episode was a tie-in to the final of the 2014 FIFA World Cup final, and was thus devoted entirely to football.|group="fn"}}
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-017/|title=No Such Thing As A Bassoon in a Football Stadium|publisher=[[QI]]|date=11 July 2014|accessdate=11 July 2014}}</ref>
+ |Aux1=Harkin, [[John Lloyd (producer)|John Lloyd]], Murray, Ptaszynski and Schreiber
+ |OriginalAirDate=11 July 2014
+ |ShortSummary=The first known [[football chant]] was composed by [[Edward Elgar]]. (Ptaszynski)
+
+[[Eric Cantona]] was raised in a cave. (Schreiber)
+
+In the [[1930 FIFA World Cup Final|first World Cup final]], [[Uruguay national football team|Uruguay]] and [[Argentina national football team|Argentina]] could not agree on the size of the ball to use, so they used Argentina's small ball in the first half and Uruguay's big ball in the second. After half time Argentina were 2–1 up, but by the end Uruguay won 4–2. (Harkin)
+
+[[FIFA]] has more members than the United Nations. (Lloyd)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=18
+ |Title=No Such Thing As A Kilt on the Battlefield
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-018/|title=No Such Thing As A Kilt on the Battlefield|publisher=[[QI]]|date=18 July 2014|accessdate=19 July 2014}}</ref>
+ |Aux1=Harkin, Ptaszynski, Schreiber and [[Richard Turner (producer)|Richard Turner]]
+ |OriginalAirDate=18 July 2014
+ |ShortSummary=When [[Neil Armstrong]] stepped on [[the Moon]] and said "That's one small step for man", he was wearing ladies [[underwear]]. (Turner)
+
+In 1963, [[Muhammad Ali]] released a stand-up comedy album. (Schreiber)
+
+In 1325, in Italy, a war was declared and 2,000 people were killed because of a [[War of the Bucket|stolen bucket]]. (Ptaszynski)
+
+There is a group of [[chimpanzee]]s in [[Zambia]] who wear a blade of grass in their left ear as a fashion statement. (Harkin)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=19
+ |Title=No Such Thing As Unicorn Stew
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-019/|title=No Such Thing As Unicorn Stew|publisher=[[QI]]|date=25 July 2014|accessdate=26 July 2014}}</ref>
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber
+ |OriginalAirDate=25 July 2014
+ |ShortSummary=A [[kangaroo]]'s tail is used as a leg, so they have either three or five legs. (Harkin)
+
+During the financial crisis of 1720, known as the [[South Sea Bubble]], the [[Houses of Parliament]] called for [[stockbrokers]] to be sewn into sacks filled with poisonous snakes and thrown into the [[River Thames]]. (Ptaszynski)
+
+There are three times as many [[estate agent]]s in the UK as there are members of the [[British Armed Forces]]. (Murray)
+
+[[Medieval]] manuscripts are littered with drawings of warfare between [[snail]]s and [[knight]]s. No-one knows why. (Schreiber)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=20
+ |Title=No Such Thing As A Dangerous Daffodil
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-020/|title=No Such Thing As A Dangerous Daffodil|publisher=[[QI]]|date=1 August 2014|accessdate=2 August 2014}}</ref>
+ |Aux1=Harkin, Anne Miller, Murray and Schreiber
+ |OriginalAirDate=1 August 2014
+ |ShortSummary=The most painful place on the human body to be stung by a [[bee]] is the [[nostril]]. (Harkin)
+
+For breakfast, [[Walt Disney]] ate fresh [[doughnut]]s dunked in [[Scotch whisky]]. (Schreiber)
+
+The French word for [[arsenic]] used to be "poudre de succession" or "inheritance powder", because it was used in so many [[arsenic poisoning|murders]]. (Miller)
+
+[[Screaming|Shouting]] at drivers improves their [[driving]]. (Murray)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=21
+ |Title=No Such Thing As A Testicle-Retracting Sumo Wrestler
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-021/|title=No Such Thing As A Testicle-Retracting Sumo Wrestler|publisher=[[QI]]|date=8 August 2014|accessdate=8 August 2014}}</ref>
+ |Aux1=Alex Bell, Harkin, Murray, Ptaszynski and Schreiber
+ |OriginalAirDate=8 August 2014
+ |ShortSummary="[[Made in Germany]]" product labels were originally invented to put people off buying the product. (Ptaszynski)
+
+In 1991, Prof. [[Alexander Abian]] of [[Iowa State University]] proposed that we could solve virtually every problem of human existence by blowing up the [[Moon]]. (Schreiber)
+
+In New York City, until 1925, drivers going east or west stopped at an amber [[traffic light]] and drove on green, while drivers going north or south drove on an amber light and stopped on green. (Harkin)
+
+There are companies which [[lasso]] [[iceberg]]s to stop them hitting [[Oil platform|oil rig]]s. (Murray)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=22
+ |Title=No Such Thing As A Magic Camel Filter
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-022/|title=No Such Thing As A Magic Camel Filter|publisher=[[QI]]|date=15 August 2014|accessdate=16 August 2014}}</ref>
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber
+ |OriginalAirDate=15 August 2014
+ |ShortSummary=In 1903, a man called W. Reginald Bray [[Human mail|posted himself]]. (Harkin)
+
+The world's oldest [[ham]] has just celebrated its 112th birthday. (Schreiber)
+
+[[Orangutan]]s like playing with [[iPad]]s, but [[gorilla]]s do not. (Ptaszynski)
+
+In the 1888 edition of ''[[Encyclopædia Britannica]]'' the entry for [[Wales]] reads: "See England". (Murray)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=23
+ |Title=No Such Thing As A Yawning Psychopath
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-023/|title=No Such Thing As A Yawning Psychopath|publisher=[[QI]]|date=22 August 2014|accessdate=25 August 2014}}</ref>
+ |Aux1=Alex Bell, Harkin, Ptaszynski and Schreiber
+ |OriginalAirDate=22 August 2014
+ |ShortSummary=[[Alexander the Great]] banned [[beard]]s in battle to combat beard-pulling. (Ptaszynski)
+
+[[Psychopath]]s do not experience contagious [[yawn]]ing as often as non-psychopaths. (Schreiber)
+
+The [[Big Bang]] was quieter than a [[Motörhead]] concert. (Harkin)
+
+[[Pixar]] accidentally deleted ''[[Toy Story 2]]'' while they were half-way through making it. (Bell)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=24
+ |Title=No Such Thing As A Malicious Robot
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-024/|title=No Such Thing As A Malicious Robot|publisher=[[QI]]|date=29 August 2014|accessdate=31 August 2014}}</ref>
+ |Aux1=Alex Bell, Harkin, Ptaszynski and Schreiber
+ |OriginalAirDate=29 August 2014
+ |ShortSummary=When he was bored [[Calvin Coolidge]] used to ring a bell to summon his bodyguards and then hide from them under the [[Oval Office desk]]. (Bell)
+
+Until 2011 the [[Sun]] was only in theory a [[sphere]], but it has since been confirmed that it is actually a sphere. (Schreiber)
+
+There are some [[Bird nest|bird's nests]] that contain over 100 rooms and are so heavy they cause trees to fall down. (Ptaszynski)
+
+The worst baseball team in South Korea, the [[Hanwha Eagles]], has replaced its supporters with robots. (Harkin)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=25
+ |Title=No Such Thing As A Randy Rat in Polyester Pants
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-025/|title=No Such Thing As A Randy Rat in Polyester Pants|publisher=[[QI]]|date=5 September 2014|accessdate=6 September 2014}}</ref>
+ |Aux1= Harkin, Murray, Ptaszynski and Schreiber
+ |OriginalAirDate=5 September 2014
+ |ShortSummary=[[Rat]]s that wear [[polyester]] [[trousers]] cannot get [[erection]]s. (Ptaszynski)
+
+During [[World War I]] entertainments for the troops included organised [[pillow fight]]s, [[wheelbarrow race]]s and wrestling on the backs of [[mule]]s. (Murray)
+
+The [[atmosphere of Venus]] is so hot that if you took a [[pizza]] out of a [[freezer]] there it would cook in three seconds. (Harkin)
+
+In [[Iceland]] there is a [[Mobile app|phone app]] that tells you if you are [[Incest|related to the person who you are (contemplating) having sex with]]. (Schreiber)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=26
+ |Title=No Such Thing As A Yeti Fact
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-026/|title=No Such Thing As A Yeti Fact|publisher=[[QI]]|date=13 September 2014|accessdate=13 September 2014}}</ref>
+ |Aux1= Harkin, Murray, Ptaszynski, [[Simon Rich]] and Schreiber
+ |OriginalAirDate=13 September 2014
+ |ShortSummary=[[Koko (gorilla)|Koko the gorilla]], who knows [[American Sign Language|sign language]], has owned and cared for three pet [[cats]] during her lifetime. (Rich)
+
+According to [[yeti]] experts it is easier to escape from a female yeti than a male yeti, because females have such long dangling [[breast]]s, so before they can chase a human they need to chuck them over their shoulders, otherwise they might trip over them. (Schreiber)
+
+The ''[[Kama Sutra]]'' suggests 64 arts to practice alongside sex including solving [[Word game|word puzzles]] and teaching birds how to talk. (Harkin)
+
+There are more than 15 trillion tonnes of water above the Earth at any given moment. (Murray)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=27
+ |Title=No Such Thing As An Egg and Cress Portsmouth
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-027/|title=No Such Thing As An Egg and Cress Portsmouth|publisher=[[QI]]|date=19 September 2014|accessdate=19 September 2014}}</ref>
+ |Aux1=Murray, Ptaszynski, Schreiber, [[Helen Zaltzman]]
+ |OriginalAirDate=19 September 2014
+ |ShortSummary=[[LOL]] originally meant "Little Old Lady". It was a medical definition. Others included "LOLINAD", meaning "Little Old Lady in No Apparent Distress", and "LOLFDGB", meaning "Little Old Lady Fall Down Go Boom" (Zaltzman).
+
+According to researchers at [[Glasgow Caledonian University]] listening to [[Billy Connolly]] can substantially increase your [[pain tolerance]]. (Schreiber)
+
+The first woman to [[bicycle|cycle]] around the world, [[Annie Londonderry|Annie "Londonderry" Cohen Kopchovsky]] learnt to ride only the day before she set off. (Ptaszynski)
+
+When [[California ground squirrel]]s are attacked by [[rattlesnake]]s they increase their [[blood pressure]] so much that their tails give off more [[infrared]] radiation and makes them look bigger. (Murray)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=28
+ |Title=No Such Thing As A Man-Eating Clam
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-028/|title=No Such Thing As A Man-Eating Clam|publisher=[[QI]]|date=26 September 2014|accessdate=26 September 2014}}</ref>
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber 
+ |OriginalAirDate=26 September 2014
+ |ShortSummary=Over 100 people used to watch [[Louis XIV of France]] getting dressed every morning. (Murray)
+
+There is an original [[Pablo Picasso|Picasso]] that no-one will ever see because it was eaten by his dog. (Harkin)
+
+During World War II the [[US Navy]] diving manual contained detailed instructions for what to do if you were eaten by a [[giant clam]]. (Schreiber)
+
+A "[[Hundred (word)|hundred]]" used to be 120. (Ptaszynski)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=29
+ |Title=No Such Thing As Terrestrial Sweetcorn
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-029/|title=No Such Thing As Terrestrial Sweetcorn|publisher=[[QI]]|date=3 October 2014|accessdate=4 October 2014}}</ref>
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber 
+ |OriginalAirDate=3 October 2014
+ |ShortSummary=The head of the [[FIDE|International Chess Federation]], [[Kirsan Ilyumzhinov]], believes [[chess]] was brought to Earth by [[Extraterrestrial life|aliens]]. (Harkin)
+
+The [[Greenland shark]] is so slow it needs all of its food to be asleep in order to eat it. It can only swim at 1[[Miles per hour|mph]], so if the [[Predation|prey]] moves it will outrun the shark. (Schreiber)
+
+In 19th century America you could be committed to a [[mental asylum]] for reading a [[novel]]. (Ptaszynski)
+
+The [[yakuza]] has its own website that has a [[theme tune]] designed to attract new members. (Murray)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=30
+ |Title=No Such Thing As A Song in the Sound of Music{{#tag:ref|This episode was recorded in front of a live audience in the Aces and Eights Bar, [[Tufnell Park]], London.|group="fn"}}
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-030/|title=No Such Thing As A Song in the Sound of Music|publisher=[[QI]]|date=10 October 2014|accessdate=11 October 2014}}</ref>
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber 
+ |OriginalAirDate=10 October 2014
+ |ShortSummary=The first [[BBC]] radio presenter with a northern accent, [[Wilfred Pickles]], was given the job to make it more difficult for the Nazis to impersonate news readers. (Harkin)
+
+In China, if you want to empty a building of people, or indeed if you want to end anything, play the song "Going Home" by [[Kenny G]]. (Schreiber)
+
+The two leading [[Paleontology|paleontologists]] of the 19th century, [[Edward Drinker Cope]] and [[Othniel Charles Marsh]], used to destroy their fossil sites after excavating them so that their rival couldn't find anything about the site. (Ptaszynski)
+
+In the [[Fulah language]], a [[computer crash]] is a known as a "hookii", which means: "a cow falling over but not dying". (Murray)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=31
+ |Title=No Such Thing As A Snake in My Pie
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-031/|title=No Such Thing As A Snake in My Pie|publisher=[[QI]]|date=17 October 2014|accessdate=23 October 2014}}</ref>
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber 
+ |OriginalAirDate=17 October 2014
+ |ShortSummary=In the 17th century there was a prophet called Dorothy Harling who would cure you of your sins by [[urination|urinating]] on the offending body part. (Harkin)
+
+Despite the fact that homosexuality is illegal in [[South Sudan]] a woman can have a female husband and a child can have a female father. (Ptaszynski)
+
+[[Tommy Flowers]], the designer of the [[Colossus computer]], discovered that the way to prevent the [[Vacuum tube|valves]] from blowing up was [[Power cycling|not turning it off and on again]]. (Schreiber)
+
+[[Botany|Botanists]] in [[Kew Gardens]] checked a £1.29 bag of supermarket [[mushroom]]s and found three species of mushroom previously unknown to science. (Murray)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=32
+ |Title=No Such Thing As A Good Gift For Gordon Brown{{#tag:ref|This episode featured tracks to Emperor Yes's album ''An Island Called Earth'', including the entire song "Monkey King".|group="fn"}}
+ |RTitle=<ref name="Episode 32"/>
+ |Aux1=Harkin, Ash Gardner, Murray, Ptaszynski and Schreiber 
+ |OriginalAirDate=24 October 2014
+ |ShortSummary=In 1060 BC, the entire Egyptian city of [[Pi-Ramesses]] was moved 20 kilometres to the north because part of the [[River Nile]] dried up. (Gardner)
+
+In 1864 a friend of [[Charles Dickens]] had a [[Ready-to-assemble furniture|flatpack]] Swiss [[chalet]] sent to his home as a Christmas present. (Ptaszynski)
+
+Neuroscientists can tell if you are a musician simply by looking at your brain. (Harkin)
+
+[[Jack L. Warner]], head of [[Warner Bros.]], spotted that from the air his studios looked identical to a nearby aircraft factory, so on the roof he painted an arrow and the words "[[Lockheed Corporation|Lockheed]]: That Way". (Schreiber)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=33
+ |Title=No Such Thing As A Clairvoyant Chicken{{#tag:ref|Halloween special|group="fn"}}
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-033/|title=No Such Thing As A Clairvoyant Chicken|publisher=[[QI]]|date=31 October 2014|accessdate=1 November 2014}}</ref>
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber 
+ |OriginalAirDate=31 October 2014
+ |ShortSummary=Until the year 635 AD [[Halloween]] was celebrated on 12 May. (Murray)
+
+[[Witch]]es used [[broomsticks]] to put [[hallucinogen|hallucinogenic drugs]] up their bottoms. (Schreiber)
+
+The woman who played the voice of [[Regan MacNeil]] in ''[[The Exorcist]]'' only agreed to play the part on the condition that she had two priests in her sound booth at all times, could be constantly drinking [[whisky]], chain-smoking cigarettes and eating raw [[egg (food)|egg]]s. (Ptaszynski)
+
+The secret of youth is drinking the blood of the young, if you happen to be a mouse. (Harkin)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=34
+ |Title=No Such Thing As A Giant German Sandcastle
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-034/|title=No Such Thing As A Giant German Sandcastle|publisher=[[QI]]|date=7 November 2014|accessdate=12 November 2014}}</ref>
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber 
+ |OriginalAirDate=7 November 2014
+ |ShortSummary=[[Comet]]s stink of rotten eggs, cat urine and bitter almonds. (Harkin)
+
+[[Ranulph Fiennes]] used to suffer from such bad [[vertigo]] that he used to have to get [[Ginny Fiennes|his wife]] to climb ladders to clear the gutters. (Murray)
+
+A [[Ryanair]] crew member hired today could not possibly be the same height as a crew member from the first Ryanair flight. Today crew members have to be at least 5'2", but when it started you had to be less than 5'2". (Ptaszynski)
+
+According to his website [[Steven Segal]] is the only private US citizen to have paid someone to destroy a [[Nuclear power|nuclear]] device. (Schreiber)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=35
+ |Title=No Such Thing As A Good Sloth Onesie{{#tag:ref|This episode was recorded in front of a live audience at the [[Chortle Awards|Chortle]] Comedy Book Festival in [[Camden Town]], North London. All the facts presented come from the book ''1,411 QI Facts to Knock You Sideways''.|group="fn"}}
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-035/|title=No Such Thing As A Good Sloth Onesie|publisher=[[QI]]|date=15 November 2014|accessdate=15 November 2014}}</ref>
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber 
+ |OriginalAirDate=15 November 2014
+ |ShortSummary=[[Viking]] names included "desirous of beer", "squat-wiggle", "lust-hostage", "short penis", "able to fill a bay with fish by magic" and "the man without trousers". (Harkin)
+
+''You Only Live Once'' is [[Katie Price]]'s fourth [[autobiography]]. (Schreiber)
+
+[[William T. G. Morton|William Morton]], the father of [[anaesthesia]], first experimented on himself but kept falling asleep before he could describe the results. (Ptaszynski)
+
+[[Chessington World of Adventures]] has banned animal-print [[onesie (jumpsuit)|onesie]]s to stop the animals there getting confused. (Murray)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=36
+ |Title=No Such Thing As A Game of King's Footsie
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-036/|title=No Such Thing As A Game of King's Footsie|publisher=[[QI]]|date=21 November 2014|accessdate=23 November 2014}}</ref>
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber 
+ |OriginalAirDate=21 November 2014
+ |ShortSummary=If you got into an argument in 18th century [[Ethiopian Empire|Abyssinia]] you could resolve it by, "blaming everything on the [[camel]]". (Ptaszynski)
+
+In [[Ancient Greece]] they used to play with [[yo-yo]]s. (Schreiber)
+
+Most [[honey bee]] [[Beehive|hives]] in the USA live on flatbed [[truck]]s. (Murray)
+
+The [[Sacramento Police Department]] get at least one phone call a week from people stuck in the world's largest corn maze. (Harkin)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=37
+ |Title=No Such Thing As The Kevin Olympics
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-037/|title=No Such Thing As The Kevin Olympics|publisher=[[QI]]|date=28 November 2014|accessdate=6 December 2014}}</ref>
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber 
+ |OriginalAirDate=28 November 2014
+ |ShortSummary=In 1874 there was a plan to transport dead bodies from all over Europe to [[Mount Vesuvius]] and throw them in. (Ptaszynski)
+
+In 2010 an abandoned waste-water treatment plant in [[Baltimore]] was found to be home to an estimated 107,000,000 [[spider]]s. (Harkin)
+
+According to [[Vatican City]]'s official newspaper, ''[[L'Osservatore Romano]]'', the greatest pop album of all time is ''[[Revolver (Beatles album)|Revolver]]'' by [[The Beatles]]. (Schreiber)
+
+For the first fifty years the [[Ancient Olympic Games]] the only event was the [[200 metres]] (or to be precise, 192 metres). (Murray)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=38
+ |Title=No Such Thing As A Super Mario Love Hotel{{#tag:ref|This episode was recorded in front of a live audience at the [[Atomium]], [[Brussels]], [[Belgium]].|group="fn"}}
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-038/|title=No Such Thing As A Super Mario Love Hotel|publisher=[[QI]]|date=6 December 2014|accessdate=6 December 2014}}</ref>
+ |Aux1=Harkin, Murray, Ptaszynski, Lieven Scheire and Schreiber 
+ |OriginalAirDate=6 December 2014
+ |ShortSummary=[[Ant colony|Ant nests]] can become infested by [[Solenopsis molesta|ants]]. (Scheire)
+
+In [[Cambodia]] a teenage girl's parents might build her a "love hut" where her parents encourage her to sleep with as many boys as she wants until she finds the one that she likes. (Ptaszynski)
+
+The longest [[canyon]] in the world is 50% longer than the [[Grand Canyon]] and it was not discovered until August 2013. It is buried under 1.9 miles of ice in [[Greenland's Grand Canyon|Greenland]]. (Murray)
+
+In 2008 the [[University of Bath]] invented a [[3D printing|3D printer]] that could print a copy of itself. Within three minutes that copy had copied itself to make a third copy and today nobody knows how many of these printers exist in the world. (Harkin)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=39
+ |Title=No Such Thing As A Rocking Chair In Space{{#tag:ref|A fact about a Japanese fishing boat being destroyed by a cow falling from the sky has since been edited out of the original podcast after it was discovered to be wrong.|group="fn"}}
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-039/|title=No Such Thing As A Rocking Chair In Space|publisher=[[QI]]|date=12 December 2014|accessdate=15 December 2014}}</ref>
+ |Aux1=Harkin, Murray, Ptaszynski, and Schreiber 
+ |OriginalAirDate=12 December 2014
+ |ShortSummary=The [[San Francisco Fire Department]]'s ladders are made from wood. (Harkin)
+
+Astronauts do not [[snoring|snore]]. (Schreiber)
+
+In March 1876 it rained [[mutton]]-tasting meat in [[Kentucky]]. (Ptaszynski)
+
+The Victorians invented a [[Coat (clothing)|coat]] which doubled-up as a [[boat]]. (Murray)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=40
+ |Title=No Such Thing As Captain Trousers
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-040/|title=No Such Thing As Captain Trousers|publisher=[[QI]]|date=19 December 2014|accessdate=19 December 2014}}</ref>
+ |Aux1=Anne Miller, Murray, Ptaszynski, and Schreiber 
+ |OriginalAirDate=19 December 2014
+ |ShortSummary=In 18th century France [[Dental extraction|tooth-pullers]] were entertainers who would perform in front of live audiences. (Murray)
+
+In [[World War I]] the [[Romania during World War I|Romanian army]] issued an order that only officers above the rank of [[major]] had the right to wear [[eye shadow]] in battle. (Ptaszynski)
+
+The most borrowed children's author in British libraries, [[Daisy Meadows]], doesn't exist. (Miller)
+
+It would cost $850 quadrillion to build the [[Death Star]]. (Schreiber)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=41
+ |Title=No Such Thing As Reginald the Red-Nosed Reindeer{{#tag:ref|Christmas special recorded in front of a live audience in the Aces and Eights Bar, Tufnell Park, London.|group="fn"}}
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-041/|title=No Such Thing As Reginald the Red-Nosed Reindeer|publisher=[[QI]]|date=24 December 2014|accessdate=25 December 2014}}</ref>
+ |Aux1=Harkin, Murray, Ptaszynski, and Schreiber 
+ |OriginalAirDate=24 December 2014
+ |ShortSummary=Before going on stage to read ''[[A Christmas Carol]]'' [[Charles Dickens]] had a warm-up routine of drinking a pint of [[champagne]]. (Schreiber)
+
+Crap [[Christmas jumper]]s date back to the [[Roman Empire|Romans]]. (Harkin)
+
+Male [[Turkey (bird)|turkeys]] blush when they see female turkeys. (Ptaszynski)
+
+The composer of the song "[[Jingle Bells]]", [[James Pierpont (musician)|James Pierpont]], also wrote a song called "We Conquer or Die". (Murray)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=Special 1
+ |Title=No Such Thing As Unbroadcastable Material{{#tag:ref|New Year special|group="fn"}}
+ |RTitle=<ref>{{cite web|title=No Such Thing As Reginald the Red-Nosed Reindeer|publisher=[[QI]]|date=31 December 2014}}</ref>
+ |Aux1=Alex Bell, Harkin, Anne Miller, Murray, Ptaszynski, and Schreiber 
+ |OriginalAirDate=31 December 2014
+ |ShortSummary=This is a special "Worst Of" episode, consisting of clips removed from the original podcasts.
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=42
+ |Title=No Such Thing As A Bloober Reel
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-042/|title=No Such Thing As A Bloober Reel|publisher=[[QI]]|date=9 January 2015|accessdate=12 January 2015}}</ref>
+ |Aux1=Harkin, Murray, Ptaszynski, and Schreiber 
+ |OriginalAirDate=9 January 2015
+ |ShortSummary=[[Franz Kafka]] once convinced his entire family that Einstein's [[theory of relativity]] was going to cure his [[tuberculosis]]. (Ptaszynski)
+
+Dead [[gecko]]s still stick to walls after they die. (Murray)
+
+The active ingredient in the first ever [[homeopathy]] treatment was the blood of [[Thomas Becket]]. (Harkin)
+
+In 2013 a group of people attempted to [[Crowdfunding|crowdfund]] London's first [[Unidentified flying object|UFO]] museum. They needed $1,000,000 but after 30 days they only raised $370. (Schreiber)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=43
+ |Title=No Such Thing As A Human Cigarette
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-043/|title=No Such Thing As A Human Cigarette|publisher=[[QI]]|date=16 January 2015|accessdate=19 January 2015}}</ref>
+ |Aux1=Alex Bell, Harkin, Murray and Ptaszynski 
+ |OriginalAirDate=16 January 2015
+ |ShortSummary=[[Cow]]s have [[Friendship|friends]] and they get sad when they are separated. (Bell)
+
+It is illegal to take a [[selfie]] with a [[tiger]] in [[New York City]]. (Harkin)
+
+Morgue [[Refrigeration|refrigerators]] in [[Turkey]] are equipped with motion sensors, alarms and handles that open them from the inside in case anyone wakes up inside. (Ptaszynski)
+
+When he was a baby [[Henry VIII of England]] had two official [[Bassinet|cradle]] rockers who were paid £3 a year each to rock his cradle. (Murray)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=44
+ |Title=No Such Thing As A Vegan Fryup
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-044/|title=No Such Thing As A Vegan Fryup|publisher=[[QI]]|date=23 January 2015|accessdate=26 January 2015}}</ref>
+ |Aux1=Harkin, Anne Miller, Murray and Ptaszynski 
+ |OriginalAirDate=23 January 2015
+ |ShortSummary=Between 800-1349 the [[Colosseum]] was used as an apartment block. (Ptaszynski)
+
+You can be fined for [[Profanity|swearing]] in [[Australia]]. In the last financial year people in [[Northern Territory]] were fined [[Australian dollar|A$]]48,372 in total. (Harkin)
+
+When the first [[transatlantic telegraph cable]] was laid in 1858 the reception on it was so bad that it took 17 hours to send the first message across. (Murray)
+
+In 2014, to celebrate [[World Vegan Day]], [[People for the Ethical Treatment of Animals|PETA]] asked the town of [[Fryup]], [[North Yorkshire]], to change its name to "Vegan Fryup" for a day. The locals refused. (Miller)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=45
+ |Title=No Such Thing As A Travelator in Ancient Rome
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-045/|title=No Such Thing As A Travelator in Ancient Rome|publisher=[[QI]]|date=30 January 2015|accessdate=31 January 2015}}</ref>
+ |Aux1=Harkin, Greg Jenner, Murray and Ptaszynski 
+ |OriginalAirDate=30 January 2015
+ |ShortSummary=In 1960s America one [[bus]] route that was only 35 miles long went through seven different [[time zone]]s due to the way [[daylight saving time]] was adopted across the country. (Jenner)
+
+If a predator gets too close to a [[limpet]] then the limpet will lift up its shell and stamp on the predator's foot. (Murray)
+
+After landing on the [[Moon]], [[Buzz Aldrin]] worked in a car dealership where he failed to sell a single car. (Ptaszynski)
+
+The [[Catharism|Cathars]] get their name from being cathartic and pure, but during the Middle Ages some people thought they got their name from the belief that they liked to kiss a cat's arse. (Harkin)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=46
+ |Title=No Such Thing As An Apostle Called Scrotum
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-046/|title=No Such Thing As An Apostle Called Scrotum|publisher=[[QI]]|date=6 February 2015|accessdate=6 February 2015}}</ref>
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber 
+ |OriginalAirDate=6 February 2015
+ |ShortSummary=There have been three Top 50 songs in the British charts that have been sung exclusively in [[Latin]]: "[[Gaudete]]" by [[Steeleye Span]]; "Choral in Latin" from ''[[Evita (musical)|Evita]]''; and "[[Pie Jesu]]" from ''[[Requiem (Lloyd Webber)|Requiem]]'', sung by [[Charlotte Church]]. (Murray)
+
+The way to [[Physical characteristics of the Buddha|recognise the Buddha]] is to look out for his webbed feet, his tongue that can reach his ears, and withdrawn genitalia. (Ptaszynski)
+
+The [[whoopee cushion]] was invented by the Roman Emperor with the birthname [[Elagabalus|Bassianus]]. (Schreiber)
+
+The oldest known [[Coin purse|purse]] is decorated with dogs teeth. (Harkin)
+
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=47
+ |Title=No Such Thing As A Lonely Starbucks Customer
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-047/|title=No Such Thing As A Lonely Starbucks Customer|publisher=[[QI]]|date=14 February 2015|accessdate=14 February 2015}}</ref>
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber 
+ |OriginalAirDate=14 February 2015
+ |ShortSummary=According to a 2011 [[YouGov]] survey 27% of Britons neither love or hate [[Marmite]]. (Harkin)
+
+The [[Knights of the Round Table]] included [[Lancelot]], [[Gawain]], [[Galahad]] and [[Gareth]]. (Schreiber)
+
+The [[Ministry of Defence (United Kingdom)|Ministry of Defence]] owns 15 [[golf course]]s. (Murray)
+
+The rise in the use of [[Combined oral contraceptive pill|female contraceptive pill]]s is causing fish to become too effeminate. (Ptaszynski)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=48
+ |Title=No Such Thing As A Pokemon-Playing Goldfish
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-048/|title=No Such Thing As A Pokemon-Playing Goldfish|publisher=[[QI]]|date=20 February 2015|accessdate=21 February 2015}}</ref>
+ |Aux1=[[Victoria Coren Mitchell]], Harkin, Miller, Murray, and Schreiber 
+ |OriginalAirDate=20 February 2015
+ |ShortSummary=[[Charles Hawtrey (actor born 1914)|Charles Hawtrey]] horded [[bedstead]]s, believing that they would help make this fortune. (Coren Mitchell)
+
+In 1937 you could visit [[Romford Greyhound Stadium|Romford Dog Track]] and watch [[cheetah]]s racing. (Harkin)
+
+In 2010 the US Military built a [[supercomputer]] using 1,760 [[PlayStation 3]]'s. (Miller)
+
+In 1552 a man in England managed to shoot himself to death using a [[bow and arrow]]. (Murray)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=49
+ |Title=No Such Thing As A Buff Panda{{#tag:ref|Special release in honour of the podcast being nominated for a Chortle Award.|group="fn"}}
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-049/|title=No Such Thing As A Buff Panda|publisher=[[QI]]|date=25 February 2015|accessdate=25 February 2015}}</ref>
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber 
+ |OriginalAirDate=25 February 2015
+ |ShortSummary=Until the mid-2000s the best method for finding out how many [[panda]]s there were alive was to sieve through their faeces. (Murray)
+
+Since 2007 the [[Wikipedia community|Wikipedian]] {{srlink|User:Giraffedata|Bryan Henderson}}<!-- "Ignore all rules" mainspace-to-userspace link, see talk page--> has made more than 50,000 edits, all of which are exactly the same: tracking down articles using the words "{{sic|comprised |hide=y|of}}" and changing them to "consists of". (Schreiber)
+
+The worlds largest [[saw]] is used to cut through mountains in [[Kazakhstan]]. (Harkin)
+
+In the early days of [[racewalking]] the competitors were allowed to [[jogging|jog]] as necessary to relieve [[cramp]]. (Ptaszynski)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=50
+ |Title=No Such Thing As Doing It Dinosaur-Style{{#tag:ref|Live recording from the [[Soho Theatre]], [[Soho]], London.|group="fn"}}
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-050/|title=No Such Thing As Doing It Dinosaur-Style|publisher=[[QI]]|date=27 February 2015|accessdate=28 February 2015}}</ref>
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber 
+ |OriginalAirDate=27 February 2015
+ |ShortSummary=The 2012 law prohibiting nudity in [[San Francisco]] was proposed by a politician named [[Scott Wiener]]. (Harkin)
+
+Charles Darwin's grandfather, [[Erasmus Darwin]], got so large that he could not sit at his dinner table any more. Rather than exercising or dieting, he cut a semi-circle in his dining table so he could fit his stomach in. (Schreiber)
+
+[[Spotify]]'s [[simple random sampling|random function]] is not [[Randomness|random]]. (Murray)
+
+The [[Animal|animal kingdom]] forgot how to have sex for 40 million years. (Ptaszynski)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=51
+ |Title=No Such Thing As Dodecahedral Shredded Wheat{{#tag:ref|Live recording from the [[Soho Theatre]], [[Soho]], London.|group="fn"}}
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-051/|title=No Such Thing As A Dodecahedral Shredded Wheat|publisher=[[QI]]|date=6 March 2015|accessdate=7 March 2015}}</ref>
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber 
+ |OriginalAirDate=6 March 2015
+ |ShortSummary=The son of [[Henry Perky]], the man who invented [[shredded wheat]], was also an inventor. He invented round shredded wheat. (Ptaszynski)
+
+In the 1960s a Canadian psychologist visited [[cafe]]s across the world counting how much couples [[touch]]ed each other. In [[Puerto Rico]] it was 180 times in an hour; in [[Paris]] it was 110; in [[London]] it was zero. (Murray)
+
+In a particular time and place in history, you could avoid [[castration]] by shouting the word "[[Soho]]". (Harkin)
+
+[[Matthieu Ricard]], named the [[Happiness|happiest]] man in the world, is unhappy that people call him the happiest man in the world. (Schreiber)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=52
+ |Title=No Such Thing As A Worthless Bucket Of Urine{{#tag:ref|Live recording from the [[Soho Theatre]], [[Soho]], London.|group="fn"}}{{#tag:ref|One year anniversary special.|group="fn"}}
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-052/|title=No Such Thing As A Worthless Bucket Of Urine|publisher=[[QI]]|date=13 March 2015|accessdate=14 March 2015}}</ref>
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber 
+ |OriginalAirDate=13 March 2015
+ |ShortSummary=The route for the [[Hong Kong]] [[ultramarathon]] is to run up and down the same stretch of road 25 times. (Murray)
+
+The [[metre]] is wrong. It is 0.16mm out. (Ptaszynski)
+
+[[St Andrews]] Aquarium currently has three [[meerkat]]s called [[Churchill Insurance Company|Churchill]], [[Admiral Insurance|Admiral]] and [[Sheilas' Wheels]]. The also had two other meerkats called [[Aviva Investors|Aviva]] and [[Direct Line]], but these have since died. (Harkin)
+
+The only ancient Egyptian [[sock]]s that we know of all belonged to [[Tutankhamun]]. Also, he wore [[sandals]], so he may have worn [[socks in sandals]]. (Schreiber)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=53
+ |Title=No Such Thing As A 3000km Tall Statue Of Liberty{{#tag:ref|Live recording from the [[Soho Theatre]], [[Soho]], London.|group="fn"}}
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-053/|title=No Such Thing As A 3000km Tall Statue Of Liberty|publisher=[[QI]]|date=20 March 2015|accessdate=21 March 2015}}</ref>
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber 
+ |OriginalAirDate=20 March 2015
+ |ShortSummary=[[Finland|Finnish]] budget [[meatball]]s have so little meat in them that they have had to be renamed "balls", or pyöryköitä in the [[Finnish language]]. (Murray)
+
+Lady [[Florence Dixie]] once had to apologise to [[Queen Victoria]] after her pet [[jaguar]] killed three of Victoria's pet [[deer]]. (Ptaszynski)
+
+The [[Statue of Liberty]] originally wore a [[headscarf]]. (Schreiber)
+
+A [[Polo (confectionery)|Polo mint]] takes 42.5 minutes to dissolve if you stick it up your [[nose]]. (Harkin)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=54
+ |Title=No Such Thing As Domesticated Furniture{{#tag:ref|Live recording from the [[Soho Theatre]], [[Soho]], London.|group="fn"}}
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-054/|title=No Such Thing As Domesticated Furniture|publisher=[[QI]]|date=27 March 2015|accessdate=28 March 2015}}</ref>
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber 
+ |OriginalAirDate=27 March 2015
+ |ShortSummary=When you have a [[tattoo removal|tattoo lasered off]] you end up pooing it out. (Murray)
+
+The man who invented the [[airship]], [[Alberto Santos-Dumont]], used to hold dinner parties with 10ft high chairs so his guests could experience the joy of flight. (Ptaszynski)
+
+A new [[Science studies|scientific study]] has concluded that there are too many scientific studies. (Schreiber)
+
+You should never pick up a [[desert tortoise]]. If you do it can urinate itself to death. (Harkin)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=55
+ |Title=No Such Thing As Samurai Nail Clippers{{#tag:ref|Live recording from the [[Soho Theatre]], [[Soho]], London.|group="fn"}}
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-055/|title=No Such Thing As Samurai Nail Clippers|publisher=[[QI]]|date=3 April 2015|accessdate=4 April 2015}}</ref>
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber 
+ |OriginalAirDate=3 April 2015
+ |ShortSummary=[[Firefighting|Firefighters]] use wetter [[water]] than most people. (Harkin)
+
+Plants have their own [[internet]] made of fungi. (Ptaszynski)
+
+In 1710 the boys of [[Winchester College]] rioted over insufficient beer rations. (Murray)
+
+The first man to discover the [[clitoris]] was [[Realdo Colombo|Colombo]]. (Schreiber)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=56
+ |Title=No Such Thing As A Killer Tomato
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-056/|title=No Such Thing As A Killer Tomato|publisher=[[QI]]|date=10 April 2015|accessdate=10 April 2015}}</ref>
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber 
+ |OriginalAirDate=10 April 2015
+ |ShortSummary=For 200 years after [[tomato]]es made it to England, they were grown almost entirely for ornimental reasons. (Ptaszynski)
+
+[[NASA]] is planning on giving the [[Moon]] a [[Natural satellite|moon]]. (Schreiber)
+
+[[Basil Rathbone]], one of the first men to play [[Sherlock Holmes]] on film, spent much of [[World War One]] dressed as a tree. (Murray)
+
+[[Abraham Lincoln]] used his [[stovepipe hat]] to keep important documents hidden. (Harkin)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=57
+ |Title=No Such Thing As A Hoverhorse
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-057/|title=No Such Thing As A Hoverhorse|publisher=[[QI]]|date=17 April 2015|accessdate=18 April 2015}}</ref>
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber 
+ |OriginalAirDate=17 April 2015
+ |ShortSummary=[[Monorail]]s were originally [[Horse-drawn vehicle|horse-drawn]]. (Schreiber)
+
+The [[Great Smog]] of 1952 was so bad that [[Blindness|blind]] people led sighted people home from train stations. (Murray)
+
+On 24 March 2015 the temperature in [[Antarctica]] was higher than that in [[Malta]], [[Madrid]] and [[Marrakech]]. (Harkin)
+
+[[Jesse Bogdonoff]], [[Tonga]]'s official finance minister, was also the official court [[jester]]. (Ptaszynski)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=58
+ |Title=No Such Thing As Van Gogh the Elephant
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-058/|title=No Such Thing As Van Gogh the Elephant|publisher=[[QI]]|date=24 April 2015|accessdate=24 April 2015}}</ref>
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber 
+ |OriginalAirDate=24 April 2015
+ |ShortSummary=[[Wilhelm II, German Emperor|Kaiser Wilhelm II]] once lost a valuable arms contract for Germany because he slapped [[Ferdinand I of Bulgaria]] on the bottom. (Ptaszynski)
+
+"Beware of [[Pickpocketing|Pickpocket]]" signs attract pickpockets. (Murray)
+
+No-one is quite sure how to pronounce [[Louis Armstrong]]'s name. (Schreiber)
+
+The man who holds the Guinness World Record for the lowest [[Human voice|voice]] can hit notes that are so low only [[elephants]] can hear them. (Harkin)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=59
+ |Title=No Such Thing As Old Mother Bastard{{#tag:ref|UK General Election special|group="fn"}}
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-059/|title=No Such Thing As Old Mother Bastard|publisher=[[QI]]|date=1 May 2015|accessdate=2 May 2015}}</ref>
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber 
+ |OriginalAirDate=1 May 2015
+ |ShortSummary=The first [[Althing|thing]] was a parliament. (Harkin)
+
+One of the largest majorities in a Brazilian local election was won by a [[Non-human electoral candidates|rhino]]. (Ptaszynski)
+
+[[Finland]]'s parliament sometimes makes decisions in their [[sauna]]. (Schreiber)
+
+In British electoral history 8 candidates have been awarded no votes at all in a [[general election]]. (Murray)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=60
+ |Title=No Such Thing As An Unenjoyable Bowel Movement
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-060/|title=No Such Thing As An Unenjoyable Bowel Movement|publisher=[[QI]]|date=8 May 2015|accessdate=9 May 2015}}</ref>
+ |Aux1=Harkin, John Lloyd, Murray, Ptaszynski and Schreiber 
+ |OriginalAirDate=8 May 2015
+ |ShortSummary=The final [[McDonalds]] burger ever sold in Iceland can currently be watched decomposing on a webcam. (Harkin)
+
+In 1851 [[Prince Albert]] commissioned a ballroom in [[Balmoral Castle]] made entirely out of [[Corrugated galvanised iron|corrugated iron]]. (Lloyd)
+
+During the 19th century Saddlers Wells Theatre was routinely flooded to stage fake naval battles. (Ptaszynski)
+
+The practice of dog owners pretending that they have not seen their dogs defecating is technically called "strategic non-knowledge". (Murray)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=61
+ |Title=No Such Thing As Jesus's Magic Wand
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-061/|title=No Such Thing As Jesus's Magic Wand|publisher=[[QI]]|date=15 May 2015|accessdate=16 May 2015}}</ref>
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber 
+ |OriginalAirDate=15 May 2015
+ |ShortSummary=Instead of being one of the founders of the USA, [[Benjamin Franklin]] almost stayed in Britain to found a swimming school on the [[River Thames]]. (Ptaszynski)
+
+[[Sumo wrestling]] referees carry a knife on them so in the event they make a bad decision during a match they can kill themselves. (Schreiber)
+
+The [[Trailer (promotion)|trailer]] for the longest movie ever made, ''Ambiancé'', is 72 minutes long. (Harkin)
+
+In the Middle Ages lots of churches had statues of [[Jesus Christ]] which had moving arms so that Christ could be taken down from the [[Crucifixion of Jesus|cross]] and carried around the church. Other statues had the [[Virgin Mary]] with a working belly from which you could take a model of the infant Christ. (Murray)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=62
+ |Title=No Such Thing As The Ugly Panda
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-062/|title=No Such Thing As The Ugly Panda|publisher=[[QI]]|date=22 May 2015|accessdate=23 May 2015}}</ref>
+ |Aux1=Harkin, [[Rufus Hound]], Murray, Ptaszynski and Schreiber 
+ |OriginalAirDate=22 May 2015
+ |ShortSummary=Twice in its history the United States has been run by a shepherd: [[Thomas Jefferson]] and [[Woodrow Wilson]] both kept [[sheep]]. (Hound)
+
+There is a village in rural Russia where every single person knows how to [[Tightrope walking|tightrope walk]]. (Harkin)
+
+In Britain [[pedestrian]]s step to the right to avoid each other and in Japan they step to the left. No-one knows why. (Ptaszynski)
+
+Half of all [[California condor]]s were raised by [[glove puppet]]s. (Murray)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=63
+ |Title=No Such Thing As An Anti-German Sock{{#tag:ref|Recorded live from the [[Hay Literary Festival]]. All the facts cover literature, except the last one which is about television, "the enemy of literature".|group="fn"}}
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-063/|title=No Such Thing As An Anti-German Sock|publisher=[[QI]]|date=29 May 2015|accessdate=30 May 2015}}</ref>
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber 
+ |OriginalAirDate=29 May 2015
+ |ShortSummary=The first ever novel, ''[[The Tale of Genji]]'', ended mid-sentence. (Ptaszynski)
+
+[[J.R.R. Tolkien]] and [[C.S. Lewis]] both once went to a party dressed as [[polar bear]]s. It was not a [[fancy dress party]]. (Harkin)
+
+[[Agatha Christie]] thought that [[Hercule Poirot]] was a, "detestable, bombastic, tiresome, egocentric, little creep". (Murray)
+
+Before inventing [[television]] [[John Logie Baird]]'s invented a pair of [[sock]]s to wear underneath your usual pair of socks.  (Schreiber)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=64
+ |Title=No Such Thing As An Honest Saiga
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-064/|title=No Such Thing As An Honest Saiga|publisher=[[QI]]|date=5 June 2015|accessdate=7 June 2015}}</ref>
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber 
+ |OriginalAirDate=5 June 2015
+ |ShortSummary=Bananas emit [[antimatter]]. (Harkin)
+
+Slovenia's largest lake, [[Lake Cerknica]], disappears every year. (Ptaszynski)
+
+Half the world's [[saiga]]s have died in the previous month and no-one knows why. (Murray)
+
+[[Barbra Streisand]] had a [[shopping mall]] built for her sole use under her house. (Schreiber)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=65
+ |Title=No Such Thing As A Chickenosaurus
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-065/|title=No Such Thing As A Chickenosaurus|publisher=[[QI]]|date=12 June 2015|accessdate=13 June 2015}}</ref>
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber 
+ |OriginalAirDate=12 June 2015
+ |ShortSummary=[[Cleaner fish]] can cheat their bosses, and their bosses can punish them. (Murray)
+
+[[Al Qaeda]]'s job application form has a question asking who should be contacted in the event that the applicant becomes a [[martyr]]. (Schreiber)
+
+The single biggest expense for the computer game ''[[Lego Universe]]'' was to hire human moderators to make sure people were not making Lego penises. (Harkin)
+
+[[Jack Horner (paleontologist)|Jack Horner]], the man who inspired the main character in ''[[Jurassic Park]]'', is now building a chickenosaurus. (Ptaszynski)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=66
+ |Title=No Such Thing As A Robotic Margaret Atwood
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-066/|title=No Such Thing As A Robotic Margaret Atwood|publisher=[[QI]]|date=19 June 2015|accessdate=20 June 2015}}</ref>
+ |Aux1=Harkin, Anne Miller, Murray, and Schreiber 
+ |OriginalAirDate=19 June 2015
+ |ShortSummary=In the 1840s [[Buses in London|London buses]] has straps attached to the driver's arms that the passenger would yank if they wanted the bus to stop. (Harkin)
+
+Standing like [[Superman]], with hands on hips, chest up and head tilted-up, can make you more successful. (Miller)
+
+[[Margaret Atwood]]'s latest novel, ''Scribbler Moon'', will not be released until 2114 as part of the [[Future Library project]]. (Schreiber)
+
+The [[Japan]]ese are planning to install [[Toilets in Japan|toilets]] in their lifts. (Murray)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=67
+ |Title=No Such Thing As The Hoo-Hah Monologues
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-067/|title=No Such Thing As The Hoo-Hah Monologues|publisher=[[QI]]|date=20 June 2015|accessdate=27 June 2015}}</ref>
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber 
+ |OriginalAirDate=26 June 2015
+ |ShortSummary=[[Guantanamo Bay detention camp|Guantanamo Bay]] has a [[gift shop]]. (Schreiber)
+
+The [[Natural History Museum, London]] is turning [[moth]]s [[homosexuality|gay]] to stop them from destroying the exhibits. (Ptaszynski)
+
+The word "[[Wiktionary:marvellous|marvellous]]" has fallen in use from 155 times per million twenty years ago, to only 2 times per million today. (Harkin)
+
+In preparation for the [[National Day of the People's Republic of China]] 100,000 [[pigeon]]s have had anal security checks to make sure they are not carrying anything suspicious. (Murray)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=68
+ |Title=No Such Thing As A Friendly Face Fondle
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-068/|title=No Such Thing As A Friendly Face Fondle|publisher=[[QI]]|date=3 July 2015|accessdate=3 July 2015}}</ref>
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber 
+ |OriginalAirDate=3 July 2015
+ |ShortSummary=Only 28% of people know when they have been [[flirting|flirted]] with. (Ptaszynski)
+
+Ancient [[Sumer]]ian [[beer]] was as thick as [[porridge]] and was drunk through a [[Drinking straw|straw]]. (Harkin)
+
+Baby [[turtle]]s co-ordinate when they are going to hatch from within their eggshells. (Murray)
+
+[[Henrik Ibsen]]'s [[last words]] were to his nurse. She said to him that she thought Ibsen was getting better, to which Ibsen replied: "On the contrary", and then he died. (Schreiber)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=69
+ |Title=No Such Thing As The Pamplona Guinea Pig Run
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-069/|title=No Such Thing As The Pamplona Guinea Pig Run|publisher=[[QI]]|date=10 July 2015|accessdate=12 July 2015}}</ref>
+ |Aux1=Alex Bell, Murray, Ptaszynski and Schreiber 
+ |OriginalAirDate=10 July 2015
+ |ShortSummary=In [[Peru]] depictions of the [[Last Supper]] show Jesus Christ and the disciples eating a [[guinea pig]]. (Murray)
+
+The [[Citigroup Center]] skyscraper has a 400 tonne weight at the top of it to stop it from falling over. (Bell)
+
+Canadian crime writer [[Howard Engel]] lost the ability to read while also not losing the ability to write. (Ptaszynski)
+
+[[Apple Inc.]] co-founder [[Steve Wozniak]] met his wife via a [[Dial-A-Joke]] call. (Schreiber)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=70
+ |Title=No Such Thing As A Rat Multiborg
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-070/|title=No Such Thing As A Rat Multiborg|publisher=[[QI]]|date=17 July 2015|accessdate=17 July 2015}}</ref>
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber 
+ |OriginalAirDate=17 July 2015
+ |ShortSummary=[[Baby|Babies]] practice saying their first words before saying them out loud. (Murray)
+
+The first pair of [[Nike, Inc.|Nike]] [[Athletic shoe|trainers]] were made with a [[waffle iron]]. (Ptaszynski)
+
+[[Rat]]s [[dream]] of places that they want to visit. (Schreiber)
+
+Humans used [[milk]] as [[paint]] for 40,000 years before anyone thought to drink it. (Harkin)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=71
+ |Title=No Such Thing As A Somersaulting Long Jumper{{#tag:ref|Recorded live from the [[Latitude Festival]].|group="fn"}}
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-071/|title=No Such Thing As A Somersaulting Long Jumper|publisher=[[QI]]|date=24 July 2015|accessdate=24 July 2015}}</ref>
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber 
+ |OriginalAirDate=24 July 2015
+ |ShortSummary=The world record for the [[Jumping (horse)#World records|horse long jump]] is shorter the record for the human [[long jump]]. (Schreiber)
+
+Every time [[Alfred Hitchcock]] had a cup of [[tea]] he always smashed the [[teacup]] afterwards. (Ptaszynski)
+
+The [[Romania]]n equivalent of comparing [[apple]]s and [[orange (fruit)|oranges]] is to compare [[grandmother]]s and [[machine gun]]s. (Murray)
+
+Replacement [[eyelid]]s can be made from [[foreskin]]s. (Harkin)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=72
+ |Title=No Such Thing As A Bacon Telescope
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-072/|title=No Such Thing As A Bacon Telescope|publisher=[[QI]]|date=31 July 2015|accessdate=1 August 2015}}</ref>
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber 
+ |OriginalAirDate=31 July 2015
+ |ShortSummary=The first item to be sent by [[Pneumatic tube mail in New York City|New York's pneumatic post system]] was an artificial [[peach]]. The second thing to be sent was an alive black cat. (Ptaszynski)
+
+Scientists have made a form of [[algae]] that tastes like [[bacon]]. (Harkin)
+
+[[Telescope]]s have a "new telescope smell" that can break them. (Murray)
+
+There is a museum in [[North Korea]] that has a scaled-down replica of the world's largest table. (Schreiber)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=73
+ |Title=No Such Thing As A Useless Condom
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-073/|title=No Such Thing As A Useless Condom|publisher=[[QI]]|date=7 August 2015|accessdate=8 August 2015}}</ref>
+ |Aux1=Harkin, Miller, Ptaszynski and Schreiber 
+ |OriginalAirDate=7 August 2015
+ |ShortSummary=As part of the [[Operation Postage Able|preparation for the D-Day landings]] the [[Allies of World War II|Allied Forces]] used [[condom]]s to collect soil and sand from the Normandy beaches. (Ptaszynski)
+
+Every second at least one [[star]] in the universe explodes. (Schreiber)
+
+[[Cannibalism|Cannibals]] in ancient Mexico ate their human flesh with [[chilli sauce]]. (Harkin)
+
+Dogs are not allowed in [[Selwyn College, Cambridge]], so the master's [[Basset Hound]] as been reclassified as a really large cat. (Miller)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=74
+ |Title=No Such Thing As A Computer in the Oval Office
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-074/|title=No Such Thing As A Computer in the Oval Office|publisher=[[QI]]|date=14 August 2015|accessdate=14 August 2015}}</ref>
+ |Aux1=Bell, Harkin, Murray, and Schreiber 
+ |OriginalAirDate=14 August 2015
+ |ShortSummary=According to the diary of the first chief of [[MI6]], [[Mansfield Smith-Cumming]], this is how the first day went: "Went to the office. Saw no-one, nor was there anything to do there." (Schreiber)
+
+There is a distillery in [[Kentucky]] that claims that playing [[Bruce Springsteen]] to the whiskey improves the ageing process. (Harkin)
+
+There is a statue of [[Nikola Tesla]] in [[Silicon Valley]] that radiates free [[wi-fi]]. (Bell)
+
+A third of people in Britain have almost [[Handwriting|written nothing by hand]] in the last six months. (Murray)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=75
+ |Title=No Such Thing As Diarrhea Drive{{#tag:ref|This episode was recorded in front of a live audience in the Aces and Eights Bar, [[Tufnell Park]], London. In this episode, it was the four favourite facts from the audience rather than the Elves.|group="fn"}}
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-075/|title=No Such Thing As Diarrhea Drive|publisher=[[QI]]|date=21 August 2015|accessdate=21 August 2015}}</ref>
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber 
+ |OriginalAirDate=21 August 2015
+ |ShortSummary=The [[Ebenezer Scrooge|Scrooge Effect]] states that if you make someone think about death, that person is more likely to be more charitable and get more satisfaction when making charitable donations.
+
+If you like [[grilled cheese]] you will have 32% more sex.
+
+In 1567 the man with the longest [[beard]] died when he tripped over his own beard while running away from a fire.
+
+In 2009 two French mayors declared the same street a [[One-way traffic|one way street]], but in different direction.
+
+[[Canadian dollar|Canadian $]]1 coins are called "loonies" and $2 coins are called "toonies".
+
+The [[Danish language|Danish word]] for "fifty-eight" translates "eight and half-three twenties".
+
+[[Jelly baby|Jelly babies]] were originally marketed under the name of "unwanted babies".
+
+A [[rhinoceros beetle]] strength capacity is the same as a human lifting nine male elephants over his head.
+
+In 1958 [[Nikita Khrushchev]] met [[Mao Zedong]], and Mao suggested a meeting while swimming, knowing that Khrushchev could not swim. Aides then appeared with water wings for Khrushchev and the meeting took place with Mao swimming up-and-down and Khrushchev flailing around.
+
+The police department in [[Cambridge, Massachusetts]] requested that when the [[Harvard Bridge]] was refurbished in the 1980s that the graffiti on it was maintained by the people who created it because became useful in identifying when acts of vandalism were committed on the bridge.
+
+[[F. Scott Fitzgerald]] bitched to [[Ernest Hemingway]] that his dick was too small, then he went to the bathroom, Hemingway looked at it and pronounced it fine.
+
+The name "Gary" is as of 2013 less popular in the UK than both the names "[[Thor]]" and "[[Loki]]".
+
+When the tooth of a [[mastodon]] was once found in North America it was identified by the tooth of a giant.
+
+According to chemistry, [[alcohol]] is a [[solution]].
+
+The first [[ICBM]]s placed outside of the [[Soviet Union]] could never be used because the Soviets in charge of them drank the rocket fuel because it was made out of alcohol.
+
+[[Bucharest]] and [[Budapest]] are the fifth most mixed up places in the world.
+
+The wages in [[Chelsea and Fulham (UK Parliament constituency)|Chelsea and Fulham]] are so high that it is the only constituency in the UK where the average wage is higher than the wage of their MP.
+
+[[Apollo 13]] nearly ended in disaster before it got to space because of a malfunction, but a second malfunction occurred which prevented the ship from being destroyed.
+
+If you wanted to recreated the entire [[The Lego Movie|''Lego Movie'']] with actual [[Lego]] you would need 15,080,330 pieces.
+
+When a dog enters a room it knows what has happened two hours before, because of its sense of [[Olfaction|smell]].
+
+Baby [[koala]] bears cannot digest [[eucalyptus]] leaves when they are first born, so they have to get the bacteria from their mother's poo to digest eucalyptus.
+
+The milk used to make [[Ben & Jerry's]] ice cream comes from massaged cows.
+
+The motto of the [[Salvation Army]] is: "Blood and fire".
+
+Since 1945 all British [[tank]]s must come equipped with tea making supplies.
+
+[[Josef Stalin]] had some scientists attempt to create an ape-human hybrid because he thought it would be useful in Russian industry and could withstand more pain.
+
+In 1953 [[NASCAR]] driver [[Tim Flock]] raced for eight races with a [[rhesus monkey]] named Jocko Flocko as his co-driver.
+
+There is a consultant urologist at [[Musgrove Park Hospital]] in [[Taunton]], [[Somerset]], named Nicholas Burns-Cox.
+
+The only man to stick his head into a [[particle accelerator]] not only lived to complete his PhD but has also not aged since the accident.
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=76
+ |Title=No Such Thing As Mould Juice{{#tag:ref|This episode was recorded in front of a live audience at the [[Edinburgh Festival Fringe]].|group="fn"}}
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-076/|title=No Such Thing As Mould Juice|publisher=[[QI]]|date=28 August 2015|accessdate=29 August 2015}}</ref>
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber 
+ |OriginalAirDate=28 August 2015
+ |ShortSummary=The first man to swim the [[English Channel]], Captain [[Matthew Webb]], later had a show where he floated in a tank for two hours. (Murray)
+
+The first item sold on [[eBay]] was a broken [[laser pointer]]. It was bought by a man who collects broken laser pointers. (Schreiber)
+
+When [[Alexander Fleming]]'s neighbours foiled a burglary at his house, as a thank you gift Fleming gave them some mould from the first [[penicillin]]. (Ptaszynski)
+
+The earliest known [[ice cream]] recipes suggest flavouring with [[ambergris]], which is whale poo. (Harkin)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=77
+ |Title=No Such Thing As Pee-Bay{{#tag:ref|This episode was recorded in front of a live audience at the [[Edinburgh Festival Fringe]].|group="fn"}}
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-077/|title=No Such Thing As Pee-Bay|publisher=[[QI]]|date=4 September 2015|accessdate=5 September 2015}}</ref>
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber 
+ |OriginalAirDate=4 September 2015
+ |ShortSummary=Dog urine makes [[street light]]s collapse. (Harkin)
+
+After the [[button]] was invented it took over 1,000 years for someone to invent the [[buttonhole]]. (Schreiber)
+
+As a baby [[Saint Nicholas]] refused to drink his mother's [[breast milk]] on fast days. (Murray)
+
+When [[Ronald Reagan]] left office, he left a note on the [[White House]] lawn for the squirrels warning them to beware of [[George H. W. Bush]]'s dogs. (Ptaszynski)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=78
+ |Title=No Such Thing As An Ugly Pair of Eyes{{#tag:ref|This episode was recorded in front of a live audience at the [[Edinburgh Festival Fringe]].|group="fn"}}
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-078/|title=No Such Thing As An Ugly Pair of Eyes|publisher=[[QI]]|date=11 September 2015|accessdate=12 September 2015}}</ref>
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber 
+ |OriginalAirDate=11 September 2015
+ |ShortSummary=[[Las Vegas]] holds an award ceremony for people who make awards, presented by the [[Awards and Recognition Association]]. (Harkin)
+
+Napoleon Bonaparte loved [[roast chicken]] so much that his household chefs were constantly cooking some in case he decided he wanted any. (Murray)
+
+[[Internet Movie Database|IMDb]] was originally just a list of actresses with beautiful eyes. (Schreiber)
+
+The word "[[Wiktionary:fascinate|fascinate]]" literary means: "the embodiment of divine phallus". (Ptaszynski)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=79
+ |Title=No Such Thing As A Sad High Five{{#tag:ref|This episode was recorded in front of a live audience at the [[Edinburgh Festival Fringe]].|group="fn"}}
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-079/|title=No Such Thing As A Sad High Five|publisher=[[QI]]|date=18 September 2015|accessdate=18 September 2015}}</ref>
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber 
+ |OriginalAirDate=18 September 2015
+ |ShortSummary=The current French [[Scrabble]] Champion, [[Nigel Richards (Scrabble player)|Nigel Richards]], does not speak a word of [[French language|French]]. (Schreiber)
+
+The worlds only venomous frogs [[headbutt]] their enemies to death. (Harkin)
+
+When the film ''[[All Quiet on the Western Front (1930 film)|All Quiet on the Western Front]]'' was released in Germany, [[Joseph Goebbels]] when to see it at the cinema and within 10 minutes he had released stink bombs, itching powder and white mice in order to make people flee from the cinema. (Ptaszynski)
+
+Defunct sports from the early 20th century include [[Archery_games#Archery_Golf|archery golf]], boxing on horseback, and competitive [[pole sitting|flagpole sitting]]. (Murray)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=80
+ |Title=No Such Thing As A Mousetrap-Remote-Control{{#tag:ref|This episode was recorded in front of a live audience at the [[Edinburgh Festival Fringe]].|group="fn"}}
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-080/|title=No Such Thing As A Mousetrap-Remote-Control|publisher=[[QI]]|date=25 September 2015|accessdate=25 September 2015}}</ref>
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber 
+ |OriginalAirDate=25 September 2015
+ |ShortSummary= The first ever [[pencil]]s were used to draw on [[sheep]]. (Murray)
+
+Drinking alcohol makes you more [[attractiveness|attractive]]. (Schreiber)
+
+The National Giant Vegetable Championships had to move venues in the mid 1980s as the [[pumpkin]]s started to get too big to fit through the doors. (Harkin)
+
+The [[Berothidae|Beaded Lacewing]] insect incapacitates its prey by [[fart]]ing on it. (Ptaszynski)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=81
+ |Title=No Such Thing As A Jellyfish Jelly
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-081/|title=No Such Thing As A Mousetrap-Remote-Control|publisher=[[QI]]|date=2 October 2015|accessdate=2 October 2015}}</ref>
+ |Aux1=Alex Bell, Harkin, Anne Miller and Ptaszynski 
+ |OriginalAirDate=2 October 2015
+ |ShortSummary=Ruby, a [[sheep]] genetically engineered to glow in the dark, was accidentally sold to an [[abattoir]]. (Miller)
+
+During the launch of [[BBC Two]] in 1964, a live kangaroo got stuck in a lift at [[BBC Television Centre]]. (Bell)
+
+[[Dr. Seuss]] once wrote a Warner Bros. film called ''[[Going Home (1944 film)|Going Home]]'', that was banned because it accidentally predicted the [[Manhattan Project]]. (Ptaszynski)
+
+The phrase: "Why is my poop green?" is [[Google]]d most commonly between 5am and 6am. (Harkin)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=82
+ |Title=No Such Thing As A Sentient Iceberg{{#tag:ref|This episode was recorded in front of a live audience at the Up The Creek Comedy Club in Greenwich, London.|group="fn"}}
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-083/|title=No Such Thing As A Sentient Iceberg|publisher=[[QI]]|date=9 October 2015|accessdate=10 October 2015}}</ref>
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber
+ |OriginalAirDate=9 October 2015
+ |ShortSummary=In [[winter]] we should all wear our [[sock]]s outside our [[shoe]]s, because they are grip more on ice. (Schreiber)
+
+Ancient [[Jerusalem]]'s [[Lost and found|lost property office]] just involved shouting about what you lost in the hope that somebody had found it. (Murray)
+
+[[Charles Blagden]], the man who discovered why we [[Perspiration|sweat]], found it out by getting into a sauna with a dog, a beef steak and an egg. (Ptaszynski)
+
+[[Stick insect]] sex can last for 79 days, and the insects are stuck together the whole time. (Harkin)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=83
+ |Title=No Such Thing As A Flying Sniffer Dog{{#tag:ref|This episode was recorded in front of a live audience at [[The Lowry]], [[City of Salford|Salford]]].|group="fn"}}
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-084/|title=No Such Thing As A Flying Sniffer Dog|publisher=[[QI]]|date=16 October 2015|accessdate=16 October 2015}}</ref>
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber
+ |OriginalAirDate=16 October 2015
+ |ShortSummary=The seventh time park ranger [[Roy Sullivan]] was struck by lightning coincided with the 22nd time he fought off a bear with a stick. (Schreiber)
+
+In 2015, America's "Hero Dog of the Year Award" was won by a cat. (Harkin)
+
+The earliest known penalty of illegal parking, dating back to [[Assyria]] in the 7th century BC, was to be [[Impalement|impaled on a stake]]. (Ptaszynski)
+
+Female [[Helicoverpa zea|corn earworm moths]] go invisible after sex. (Murray)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=84
+ |Title=No Such Thing As A Donkumentary{{#tag:ref|This episode was recorded in the Waldorf-Astoria, Central London.|group="fn"}}
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-082/|title=No Such Thing As A Donkumentary|publisher=[[QI]]|date=23 October 2015|accessdate=23 October 2015}}</ref>
+ |Aux1=Alex Bell, [[Karl Kruszelnicki]], Murray, and Schreiber
+ |OriginalAirDate=23 October 2015
+ |ShortSummary=Two people in Sydney every week get bitten by [[tick]]s and shortly afterwards become allergic to meat for the rest of their lives. (Kruszelnicki)
+
+The [[Year 2000 problem|Millennium bug]] is going to hit in [[Year 2038 problem|2038]]. (Murray)
+
+[[Buckminster Fuller]]'s [[Dymaxion Chronofile|complete diaries]] take over 18 metres of shelf space. (Bell)
+
+[[Australia|Australian]] scientists have recently named a new discovered species of fish: "[[Plectorhinchus caeruleonothus|blue bastard]]". (Schreiber)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=85
+ |Title=No Such Thing As Michaelangelo's Snowman{{#tag:ref|This episode was recorded at the Brighton Comedy Festival.|group="fn"}}
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-085/|title=No Such Thing As Michaelangelo's Snowman|publisher=[[QI]]|date=30 October 2015|accessdate=30 October 2015}}</ref>
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber
+ |OriginalAirDate=30 October 2015
+ |ShortSummary=During [[the Miracle of 1511]] the people of [[Brussels]] protested against the government by filling the city with dozens of pornographic [[snowman|snowmen]]. (Harkin)
+
+[[Harris hawk]]s stand on each others shoulders to get a better view. (Ptaszynski)
+
+[[Pope Innocent VIII]] was given the nickname "The Honest" because he was the first pope to acknowledge that he had illegitimate children. (Murray)
+
+Spanish construction workers recently accidentally destroyed a 6,000-year-old neolithic tomb that looked like a [[picnic table]] and replaced it with a new and better-looking picnic table. (Schreiber)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=86
+ |Title=No Such Thing As Ghost Nipples
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-086/|title=No Such Thing As Ghost Nipples|publisher=[[QI]]|date=6 November 2015|accessdate=7 November 2015}}</ref>
+ |Aux1=Harkin, Mark Mason, Murray and Schreiber
+ |OriginalAirDate=6 November 2015
+ |ShortSummary=For the [[Coronation of Queen Elizabeth II]] people dressed up as [[television]] sets. (Murray)
+
+The world [[puddle]] jumping championships bans [[soft drink|fizzy drinks]] in case they improve the participant's performance. (Harkin)
+
+The [[shuttlecock]]s used in professional [[badminton]] are made using real [[goose]] feathers which are always taken from the bird's left wing. (Mason)
+
+The Ancient Egyptians had a pornographic [[papyrus]], known as the [[Turin Erotic Papyrus]]. (Schreiber)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=87
+ |Title=No Such Thing As The Pajama Police{{#tag:ref|This episode was recorded at the North Wall Arts Centre in [[Oxford]].|group="fn"}}
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-087/|title=No Such Thing As The Pajama Police|publisher=[[QI]]|date=13 November 2015|accessdate=13 November 2015}}</ref>
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber
+ |OriginalAirDate=13 November 2015
+ |ShortSummary=The world's only [[Cornish pasty]] museum is in [[Mexico]]. (Ptaszynski)
+
+20% of people wake up wearing fewer clothes than they went to bed with. (Harkin)
+
+There are people who mine for jeans. (Murray)
+
+Jesus Christ had a [[monobrow]]. (Schreiber)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=Special 2
+ |Title=The One Show Special{{#tag:ref|This episode was recorded at [[BBC]] [[Broadcasting House]], [[London]], during a recording of ''[[The One Show]]''. The facts discussed on the podcast were connected to the topics discussed on that night's episode of ''The One Show''.|group="fn"}}
+ |RTitle=<ref>{{cite web|title=No Such Thing As Fish: The One Show Special|publisher=[[QI]]|date=20 November 2015}}</ref>
+ |Aux1=[[Matt Baker (presenter)|Matt Baker]], [[John Bishop (comedian)|John Bishop]], Harkin, [[Alex Jones (Welsh presenter)|Alex Jones]], Murray, Ptaszynski and Schreiber
+ |OriginalAirDate=19 November 2015
+ |ShortSummary=The total number of hours spent by people watching ''[[The One Show]]'' this year is the same as the total number of hours that have passed since humans left Africa. (Harkin)
+
+The largest object ever discovered is a hole: the [[Void (astronomy)|supervoid]]. (Ptaszynski)
+
+In 2012 a [[kestrel]] was arrested in [[Turkey]] on suspicion of spying. (Schreiber)
+
+The phrase "van man" pre-dates the invention of the [[van]]. (Murray)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=88
+ |Title=No Such Thing As A Moon Sausage Bullet{{#tag:ref|This episode was recorded at the North Wall Arts Centre in [[Oxford]].|group="fn"}}
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-088/|title=No Such Thing As A Moon Sausage Bullet|publisher=[[QI]]|date=20 November 2015|accessdate=21 November 2015}}</ref>
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber
+ |OriginalAirDate=20 November 2015
+ |ShortSummary=[[Lord Byron]]'s [[nickname]] for [[William Wordsworth]] was: "William Turdsworth". (Murray)
+
+If you grow a [[Romaine lettuce|cos lettuce]] in a spaceship it tastes like [[Eruca sativa|rocket]]. (Harkin)
+
+Scientists have grown an ear using [[Vincent Van Gogh]]'s DNA. (Schreiber)
+
+The [[larger Pacific striped octopus]] catches its prey by sneaking up behind it and tapping it on the shoulder. (Ptaszynski)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=89
+ |Title=No Such Thing As Utah Fried Chicken{{#tag:ref|This episode was recorded at The Junction in [[Cambridge]].|group="fn"}}
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-089/|title=No Such Thing As Utah Fried Chicken|publisher=[[QI]]|date=27 November 2015|accessdate=1 December 2015}}</ref>
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber
+ |OriginalAirDate=27 November 2015
+ |ShortSummary=Before [[train]]s had corridors guards had to climb along the outside of the carriage to check your ticket. (Murray)
+
+The names given by [[Ernest Shackleton]] to his dogs included Slippery, Slobbers, Satan, Painful, Swanker, Bomber and Bob.  (Harkin)
+
+According to a recent theory, [[Stonehenge]] was built as a part of a [[team building]] exercise. (Schreiber)
+
+[[Utah]] has a 106 acre forest that is made out of one tree, [[Pando (tree)|Pando]]. (Ptaszynski)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=90
+ |Title=No Such Thing As The Brilliant Billion
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-090/|title=No Such Thing As The Brilliant Billion|publisher=[[QI]]|date=4 December 2015|accessdate=4 December 2015}}</ref>
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber
+ |OriginalAirDate=4 December 2015
+ |ShortSummary=The [[Great Wall of China]] is held together by sticky [[rice]]. (Harkin)
+
+The world's largest [[Unicellular organism|single-cell organism]], ''[[Caulerpa taxifolia]]'', can get up to 12 inches long. (Murray)
+
+If you are bitten by the [[boomslang]] snake you bleed from every orifice. (Ptaszynski)
+
+[[Albert Einstein]] has a social media team. (Schreiber)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=91
+ |Title=No Such Thing As Apocalypse 1988
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-090/|title=No Such Thing As Apocalypse 1988|publisher=[[QI]]|date=11 December 2015|accessdate=11 December 2015}}</ref>
+ |Aux1=Harkin, Anne Miller, Ptaszynski and Schreiber
+ |OriginalAirDate=11 December 2015
+ |ShortSummary=''[[The Very Hungry Caterpillar]]'' was originally called ''A Week with Willi the Worm''. (Harkin)
+
+During World War II the [[Double-Cross System|XX Committee]], or "Double-Cross Committee" was in charge of turning German spies. (Miller)
+
+Houses in [[Bali]] are built in proportion to the owner's body. (Ptaszynski)
+
+According to [[Isaac Newton]] the world is going to end in 2060. (Schreiber)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=92
+ |Title=No Such Thing As A Frozen Chicken Haunting{{#tag:ref|This episode was recorded in front of a live audience at the Up The Creek Comedy Club in Greenwich, London.|group="fn"}}
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-092/|title=No Such Thing As A Frozen Chicken Haunting|publisher=[[QI]]|date=18 December 2015|accessdate=18 December 2015}}</ref>
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber
+ |OriginalAirDate=18 December 2015
+ |ShortSummary=There is only a 1 in 800,000 chance of nobody will [[coughing|cough]] during the recording of this podcast. (Harkin)
+
+The Colosseum has recently banned [[centurion]]s. (Schreiber)
+
+From 1978 to 1991 tens of thousands of [[chicken]] heads were dropped from helicopters over Switzerland. (Ptaszynski)
+
+In 2015 a ten-year study concluded that [[Punch (combat)|punching]] [[glass]] is very dangerous. (Murray)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=93
+ |Title=No Such Thing As A Christmas Treenis{{#tag:ref|Christmas special.|group="fn"}}
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-093/|title=No Such Thing As A Christmas Treenis|publisher=[[QI]]|date=25 December 2015|accessdate=25 December 2015}}</ref>
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber
+ |OriginalAirDate=25 December 2015
+ |ShortSummary=The oldest [[Turkey (bird)|turkey]] in the UK is called Dinner. (Harkin)
+
+[[Cary Grant]] and [[Clark Gable]] used to meet up once a year at Christmas to exchange unwanted [[Monogram|monogramed]] gifts they received. (Ptaszynski)
+
+When it gets really cold [[Christmas tree]]s can turn into glass. (Murray)
+
+One of the contenders for this year's Christmas charts is a [[prog rock]] album by [[Pope Francis]]. (Schreiber)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=94
+ |Title=No Such Thing As Sexy Mucus Pajamas{{#tag:ref|This episode was recorded in front of a live audience at the Up The Creek Comedy Club in Greenwich, London. In this episode, it was the four favourite facts from the audience rather than the Elves.|group="fn"}}
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-094/|title=No Such Thing As Sexy Mucus Pajamas|publisher=[[QI]]|date=1 January 2016|accessdate=1 January 2016}}</ref>
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber
+ |OriginalAirDate=1 January 2016
+ |ShortSummary=There is a chemical called [[arsole]].
+
+In the late 1950 and early 1960s, comics with gorillas on the front cover sold considerably more than comics without them.
+
+The [[Twenty-fifth Amendment to the United States Constitution|25th Amendment]] allows US vice-presidents to take over as president when the president becomes incapacitated. It has happened three times, and each time the president was having a [[colonoscopy]].
+
+There is a scene in the movie ''[[Léon: The Professional]]'' where lots of police cars are parked outside a building. While this scene was being filmed a man who had just robbed a shot ran onto the movie set, thought it was the real police, and handed himself in.
+
+[[Gary Numan]] is three weeks older than [[Gary Oldman]].
+
+The new organist of [[Leeds Cathedral]] is David Pipe.
+
+There was a [[ghost army]] in World War II. The Allies used rubber inflatable tanks and recorded the sound of troops to trick the Germans into thinking the enemy was there.
+
+[[Parrot fish]] wear protective [[pyjamas]] at night, which they eat in the morning.
+
+The parents of [[Ecnomiohyla rabborum|fringe-limbed treefrogs]] grow extra layers of skin to feed their tadpoles.
+
+The new tallest building in London is going to be named "Undershaft".
+
+In 1774, one newspaper estimated that out of the 872,564 married couples in England only nine entirely happy.
+
+At the Admiralty Office [[Horatio Nelson, 1st Viscount Nelson|Lord Nelson]] has a small mahogany box to stand on because he was short and the admirals sat on a raised platform to make themselves higher before everyone who came before them to speak.
+
+When [[Charles, Prince of Wales|Prince Charles]] married [[Diana, Princess of Wales|Princess Diana]] the TV cables put in place during the wedding were run through small holes by [[ferret]]s.
+
+A ferret called Misty ran cables from the [[United States Space Command]] at the Y2K Centre. Her fee was a strawberry [[pop tart]].
+
+When a new HQ of the [[London Underground]] was opened in 1929 the statue on the front of the building of a naked boy was so controversial and there was so much public outcry that the sculpture had to reduce the size of the statue's penis by 1.5 inches.
+
+[[Claire Danes]] and all of her movies were banned from the [[Philippines]] after she insulted the country in an interview.
+
+The Korean term for the [[Grinding (dance)|grinding]] dance is: "bubibubi".
+
+[[Ottoman Empire|Ottoman Emperor]] Abdul Hamid made it illegal to use the words "sibling", "star", "bedbug" and "nose".
+
+Once, in order to send [[Banknote|paper money]] through the post, people used to tear the money into two pieces and use the halves separately.
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=95
+ |Title=No Such Thing As A Millipede Embassy
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-095/|title=No Such Thing As A Millipede Embassy|publisher=[[QI]]|date=8 January 2016|accessdate=8 January 2016}}</ref>
+ |Aux1=Alex Bell, Harkin, Murray and Ptaszynski
+ |OriginalAirDate=8 January 2016
+ |ShortSummary=Czech deer still avoid crossing the [[Iron Curtain]]. (Murray)
+
+If every car in [[Monaco]] decided to go for a drive at the same time, they would not fit on the roads. (Harkin)
+
+[[Centralia, Pennsylvania]] has been on fire since 1962. (Ptaszynski)
+
+The first recorded traffic casualty was a Roman pig that was run over by a [[chariot]] carrying an ornamental phallus. (Bell)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=96
+ |Title=No Such Thing As A Touch Of Worms{{#tag:ref|Winter special.|group="fn"}}
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-096/|title=No Such Thing As A Touch Of Worms|publisher=[[QI]]|date=15 January 2016|accessdate=16 January 2016}}</ref>
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber
+ |OriginalAirDate=15 January 2016
+ |ShortSummary=[[Socrates]] had a spirit who spoke to him through the medium of [[Sneeze|sneezing]]. (Ptaszynski)
+
+People used to hang their [[refrigerator]]s from the [[ceiling]]. (Murray)
+
+[[David Frost]] used to host live TV shows 8 nights a week, by travelling via [[Concorde]]. (Schreiber)
+
+The original [[chill pill]] was a pill you took when you had a chill. (Harkin)
+ |LineColor=000000
+}}
+{{ Episode list
+ |EpisodeNumber=97
+ |Title=No Such Thing As Andrew Diplodocus Carnegie
+ |RTitle=<ref>{{cite web|url=http://qi.com/podcast-episode-097/|title=No Such Thing As Andrew Diplodocus Carnegie|publisher=[[QI]]|date=15 January 2016|accessdate=22 January 2016}}</ref>
+ |Aux1=[[Helen Arney]], Harkin, Murray, and Schreiber
+ |OriginalAirDate=22 January 2016
+ |ShortSummary=[[Wiktionary:tomorrow|Tomorrow]] will be the longest day of your life, because days on Earth are getting longer. (Arney)
+
+In 1457 men with [[moustache]]s were banned from [[Dublin]]. (Harkin)
+
+[[Diplodocus]]es could break the [[sound barrier]]. (Schreiber)
+
+More and more scientists are just describing their finds as "[[Wiktionary:astounding|astounding]]". (Murray)
+ |LineColor=000000
+}}
+|}
+
+===World Cup of Facts: International Factball===
+During the [[2014 FIFA World Cup]], the podcast did a spin-off series sponsored by the [[VisitEngland]] tourism campaign. In it, the Elves played a "Factball" contest, with facts representing each country taking part (except England) that have nothing to do with football. The country with the most quite interesting fact won the match. The winning countries are in bold.<ref>{{cite web|last=Brobby|first=Melissa|url=http://www.visitengland.com/blog/june-2014/qi-elves|title=Q.I Elves: The World Cup of Facts|publisher=[[VisitEngland]]|accessdate=13 June 2014}}</ref>
+
+{| class="wikitable" style="width:98%;"
+|-
+! style="background-color: #DEDDE2;"| # 
+!! style="background-color: #DEDDE2;"| Title 
+!! style="background-color: #DEDDE2;"|Presenters
+!! style="background-color: #DEDDE2;"|Original airdate
+{{ Episode list
+ |EpisodeNumber=1
+ |Title='''Brazil''' v Croatia
+ |RTitle=
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber
+ |OriginalAirDate=12 June 2014
+ |ShortSummary=
+}}
+{{ Episode list
+ |EpisodeNumber=2
+ |Title='''Spain''' v The Netherlands
+ |RTitle=
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber
+ |OriginalAirDate=13 June 2014
+ |ShortSummary=
+}}
+{{ Episode list
+ |EpisodeNumber=3
+ |Title=Uruguay v '''Costa Rica'''
+ |RTitle=
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber
+ |OriginalAirDate=14 June 2014
+ |ShortSummary=
+}}
+{{ Episode list
+ |EpisodeNumber=4
+ |Title='''France''' v Honduras
+ |RTitle=
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber
+ |OriginalAirDate=15 June 2014
+ |ShortSummary=
+}}
+{{ Episode list
+ |EpisodeNumber=5
+ |Title=Germany v '''Portugal'''
+ |RTitle=
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber
+ |OriginalAirDate=16 June 2014
+ |ShortSummary=
+}}
+{{ Episode list
+ |EpisodeNumber=6
+ |Title='''Belgium''' v Algeria
+ |RTitle=
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber
+ |OriginalAirDate=17 June 2014
+ |ShortSummary=
+}}
+{{ Episode list
+ |EpisodeNumber=7
+ |Title='''Cameroon''' v Chile
+ |RTitle=
+ |Aux1=Jack Burke, Harkin, Ptaszynski and Schreiber
+ |OriginalAirDate=18 June 2014
+ |ShortSummary=
+}}
+{{ Episode list
+ |EpisodeNumber=8
+ |Title= Colombia v '''Ivory Coast'''
+ |RTitle=
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber
+ |OriginalAirDate=19 June 2014
+ |ShortSummary=
+}}
+{{ Episode list
+ |EpisodeNumber=9
+ |Title= Italy v '''Switzerland'''
+ |RTitle=
+ |Aux1=Harkin, Anne Miller, Murray and Ptaszynski
+ |OriginalAirDate=20 June 2014
+ |ShortSummary=
+}}
+{{ Episode list
+ |EpisodeNumber=10
+ |Title= '''Nigeria''' v Bosnia-Herzegovina
+ |RTitle=
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber
+ |OriginalAirDate=21 June 2014
+ |ShortSummary=
+}}
+{{ Episode list
+ |EpisodeNumber=11
+ |Title= '''United States''' v '''Russia'''{{#tag:ref|This match was declared a draw, so both teams went into the next round.|group="fn"}}
+ |RTitle=
+ |Aux1=Alex Edelman, Harkin, Ptaszynski and Schreiber
+ |OriginalAirDate=21 June 2014
+ |ShortSummary=
+}}
+{{ Episode list
+ |EpisodeNumber=12
+ |Title= '''Australia''' v Mexico{{#tag:ref|Most of the panel voted for Mexico, but Australian Schreiber, who hosted this episode, mockingly declared that Australia was the winner instead.|group="fn"}}
+ |RTitle=
+ |Aux1=Alex Bell, Harkin, Molly Oldfield and Schreiber
+ |OriginalAirDate=23 June 2014
+ |ShortSummary=
+}}
+{{ Episode list
+ |EpisodeNumber=13
+ |Title= '''Greece''' v Japan
+ |RTitle=
+ |Aux1=Harkin, [[John Mitchinson (researcher)|John Mitchinson]], Molly Oldfield and Ptaszynski
+ |OriginalAirDate=24 June 2014
+ |ShortSummary=
+}}
+{{ Episode list
+ |EpisodeNumber=14
+ |Title= Iran v Argentina v '''Ecuador'''
+ |RTitle=
+ |Aux1=Harkin, Ptaszynski, Schreiber and Freddy Soames
+ |OriginalAirDate=25 June 2014
+ |ShortSummary=
+}}
+{{ Episode list
+ |EpisodeNumber=15
+ |Title= South Korea v '''Ghana'''
+ |RTitle=
+ |Aux1=Alex Bell, Harkin, Ptaszynski, Schreiber
+ |OriginalAirDate=26 June 2014
+ |ShortSummary=
+}}
+|}
+
+===Vinyl recording===
+This episode was released only as a vinyl record, as part of ''The Complete First Year of No Such Thing As A Fish''.<ref name="Record"/>
+
+{| class="wikitable" style="width:98%;"
+|-
+! style="background-color: #DEDDE2;"| # 
+!! style="background-color: #DEDDE2;"| Title 
+!! style="background-color: #DEDDE2;"|Presenters
+!! style="background-color: #DEDDE2;"|Original airdate 
+{{ Episode list
+ |EpisodeNumber=N/A
+ |Title=No Such Thing as John Johnson
+ |RTitle=
+ |Aux1=Harkin, Murray, Ptaszynski and Schreiber
+ |OriginalAirDate=20 November, 2015
+ |ShortSummary=[[Swiss cheese]] is losing its holes. (Ptaszynski)
+
+There is a [[Skiing|ski shop]] in the middle of the [[Sahara]] desert. (Murray)
+
+The world's only [[firework]]-[[boxing]] match took place in London in 1937. (Harkin)
+
+You have a cell in your brain specifically dedicated to [[Jennifer Aniston]]. (Schreiber)
+ |LineColor=000000
+}}
+|}
+
+==Reception==
+[[Miranda Sawyer]] in ''[[The Observer]]'' gave the podcast a positive review writing, "the podcast is jolly, packed with impressive and silly facts, and so far hasn't descended into too much in-joke chumminess, so hooray for ''No Such Thing As a Fish''."<ref>{{cite web|last=Sawyer|first=Miranda|authorlink=Miranda Sawyer|title=No Such Thing As a Fish; Freakonomics – podcast reviews|publisher=''[[The Observer]]''|url=http://www.theguardian.com/tv-and-radio/2014/mar/23/no-such-thing-as-a-fish-freakonomics-podcast-reviews|date=23 March 2014|accessdate=23 May 2014}}</ref>
+
+Comedy critic [[Bruce Dessau]] wrote on his ''Beyond the Joke'' blog that: "All it lacks is the likes of [[Alan Davies]] [a panelist on the TV version of ''QI''] and co chipping in with their comedic quips, but there are still plenty of laughs to be had."<ref name="Dessau"/>
+
+In December 2014 the podcast was named by Apple as the "Best New Podcast" for 2014.<ref name="Best New Podcast"/> In March 2015 the "Internet Award" in the 2015 [[Chortle Awards]].<ref name ="Chortle"/>
+
+==Products==
+On 20 November 2015, ''The Complete First Year of No Such Thing As A Fish'' [[LP record]] will be released, containing a bonus-length exclusive episode not planned for broadcast, featuring a guest appearance of [[Corey Taylor]].<ref name="Record">{{cite web|url=http://www.chortle.co.uk/news/2015/09/14/23212/its_a_podcast_-_on_vinyl|title=It's a podcast - on vinyl|publisher=Chortle|date=14 September 2015|accessdate=14 September 2015}}</ref> The LP, to be released by [[Alcopop! Records]], will also include downloadable versions of the first 52 episodes of the series, covering the entire first year of the podcast. It will be released on heavyweight black and limited edition yellow vinyl.<ref>{{cite web|url=http://ilovealcopop.awesomedistro.com/products/558867-no-such-thing-as-a-fish-lp-52-bonus-tracks-preorder|title=No Such Thing As A Fish LP + 52 bonus tracks - PREORDER|publisher=[[Alcopop! Records]]|date=12 September 2015|accessdate=12 September 2015}}</ref>
+
+==Footnotes==
+<references group="fn"/>
+
+==References==
+;General
+* {{cite web|url=http://qi.com/podcast/|title=No Such Thing as a Fish|publisher=''[[QI]]''|accessdate=24 May 2014}}
+* {{cite web|url=https://soundcloud.com/nosuchthingasafish|title=No Such Thing as a Fish|publisher=[[Soundcloud]]|accessdate=5 November 2014}}
+
+;Specific
+{{Reflist|30em}}
+
+==External links==
+*[http://qi.com/podcast Official website]
+*{{Twitter|QIPodcast|No Such Thing as a Fish}}
+*{{Twitter|schreiberland|Dan Schreiber}}
+*{{Twitter|eggshaped|James Harkin}}
+*{{Twitter|andrewhunterm|Andrew Hunter Murray}}
+*{{Facebook|nosuchthingasafish|No Such Thing as a Fish}}
+
+{{QI}}
+
+[[Category:2014 introductions]]
+[[Category:Audio podcasts]]
+[[Category:English-language podcasts]]
+[[Category:QI]]
