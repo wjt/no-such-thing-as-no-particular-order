@@ -25,7 +25,7 @@ def fetch():
     except IOError:
         response = requests.get(URL)
         with open(CACHE, 'w') as f:
-            f.write(response.content)
+            f.write(response.text)
         return response.content
 
 
