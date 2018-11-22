@@ -1,20 +1,17 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # vim: set fileencoding=utf-8 tw=96
 from __future__ import print_function, unicode_literals
 
-import matplotlib.pyplot as plt
 import mwparserfromhell
-import operator
 import pandas as pd
 import re
 import requests
 import subprocess
 
+from scipy.stats import chisquare
+
 import seaborn as sns
 sns.set_palette('colorblind', n_colors=4)
-
-from contextlib import contextmanager
-from scipy.stats import chisquare
 
 
 URL = 'https://en.wikipedia.org/w/index.php?title=No_Such_Thing_as_a_Fish&action=raw'
@@ -61,7 +58,7 @@ def get_episodes(markup):
 
 
 def get_speakers(summary):
-    return re.findall(r'\(([^()]+)\)\.?\s*$', unicode(summary), re.MULTILINE)
+    return re.findall(r'\(([^()]+)\)\.?\s*$', str(summary), re.MULTILINE)
 
 
 def to_frame(markup):
@@ -112,7 +109,9 @@ def main():
 
     p = is_nth(df)
     for i, position in enumerate(p.items, 1):
-        fn = lambda ext: '{}-{}.{}'.format(i, position, ext)
+        def fn(ext):
+            return '{}-{}.{}'.format(i, position, ext)
+
         svg = fn('svg')
         png = fn('png')
 
@@ -120,7 +119,7 @@ def main():
                                title='Proportion of Facts in {} Position'.format(position))
         axes.figure.savefig(svg)
         subprocess.check_call((
-            'inkscape', '--export-dpi=180', '--export-png={}'.format(png), svg,
+            'org.inkscape.Inkscape', '--export-dpi=180', '--export-png={}'.format(png), svg,
         ))
 
 
